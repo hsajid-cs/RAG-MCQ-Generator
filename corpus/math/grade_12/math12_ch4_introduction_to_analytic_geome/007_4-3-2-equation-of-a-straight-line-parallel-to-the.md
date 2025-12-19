@@ -1,0 +1,1 @@
+### 4.3.2 Equation of a Straight Line Parallel to the *x*-axis (or perpendicular to the *y*-axis)

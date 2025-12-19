@@ -1,0 +1,9 @@
+## Sentences and Fragments, p. 83
+
+1. Fragment: An -ING word (having) is used in place of a conjugated verb (have), and so the statement lacks a main verb. Correction: Since 2009, physicists have been intrigued by possible evidence of dark matter in the center of the Milky Way galaxy.
+2. Sentence
+3. Fragment: And can only join two independent clauses; however, When they catch sight of their prey cannot stand on its own as a sentence. To create a grammatically coherent sentence, and must be removed. Correction: When they catch sight of their prey, and peregrine falcons drop into a steep, swift dive at more than 200 miles an hour.
+
+4. Fragment: An -ING word (using) is used in place of a conjugated verb (uses), and so the second clause lacks a main verb. Correction: The observational branch of astronomy relies on the collection of data from celestial bodies, whereas the theoretical branch uses computers to analyze their movements.
+5. Fragment: The verb gather "belongs" to who rather than to its intended subject, students. As a result, the sentence is missing a main verb. To restore the verb to its subject, who must be eliminated. Correction: Each spring, students who gather from around the world for the FIRST Robotics Competition, an experience that can change lives.
+6. Fragment: The commas after meditation and decades indicate that the information in between can be crossed out, but when it is eliminated, the sentence no longer makes sense: Many forms of meditation...and have been deemed ineffective. To create a grammatically coherent sentence, and must be removed. Correction: Many forms of meditation, a practice that has been examined by researchers over the last several decades, and have been deemed ineffective.

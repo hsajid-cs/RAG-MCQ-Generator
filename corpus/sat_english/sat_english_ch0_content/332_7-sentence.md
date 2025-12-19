@@ -1,0 +1,6 @@
+## 7. Sentence
+
+8. Fragment: An -ING word (suggesting) is used in place of a conjugated verb (suggest), and so the statement lacks a main verb. Correction: Findings from one recent study about meteorites suggest that water has been present on Earth since the planet was formed.
+9. Fragment: But can only join two independent clauses; however, usually structured differently from autobiographies cannot stand on its own as a sentence. To create a grammatically coherent sentence, but must be removed. Correction: Usually structured differently from autobiographies, but memoirs follow the development of an author's personality rather than the writing of his or her works.
+10. Fragment: The verb is "belongs" to which rather than to its intended subject, Chicago's metropolitan area. As a result, the sentence is
+missing a main verb. To restore the verb to its subject, which must be removed. (Note that a nonessential clause is placed between the subject and the verb.) Correction: Chicago's metropolitan area, sometimes called Chicagoland, which is home to 9.5 million people and is the thirdlargest in the United States.

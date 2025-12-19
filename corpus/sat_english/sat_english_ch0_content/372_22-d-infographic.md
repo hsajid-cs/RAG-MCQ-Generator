@@ -1,0 +1,3 @@
+## 22. D: Infographic
+
+All of the answers have two parts, so you want to deal with them one piece at a time. The first part of each answer refers to weeks, so start there. Looking at the "Interior Finish" section of the graph, you can see that the time for modular buildings is three weeks. With that information, you can eliminate B) and C). Now you can consider the other half of the answer. Just looking at the graph, you can see that the bar for modular construction is almost as high as it is for traditional construction, so interior finishing for modular construction takes only a little less time than that for traditional construction. That corresponds to D).

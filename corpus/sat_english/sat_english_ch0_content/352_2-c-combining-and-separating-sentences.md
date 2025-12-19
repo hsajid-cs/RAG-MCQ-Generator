@@ -1,0 +1,3 @@
+## 2. C: Combining and Separating Sentences
+
+If you read the entire sentence carefully, you should notice that there are actually two sentences. Although the original version places the phrase when he was a child at the end of the first sentence, it actually belongs to the beginning of the second sentence. A) creates a run-on, and both B) and D) create comma splices. C) correctly places a period between the two sentences.

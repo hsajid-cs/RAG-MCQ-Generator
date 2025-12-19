@@ -1,0 +1,3 @@
+## 30. C: Diction, Tense
+
+All four answers are very similar, and all are broken into two components (verb, vocabulary), so you want to do your best to deal with them one at a time. If you're not sure about precede vs. proceed, worry about the tense issue first. The general rule is that you shouldn't combine past (wasn't) and future (will) in the same sentence, so you can eliminate B) and D). Now the second part. Precede means "come before," whereas proceed means "go ahead." If you're not sure, you can make an educated guess by using roots: pre means "before," so you can assume that precede is related to that idea. There's nothing in the passage to indicate that the writer is discussing something that "came before," so A) can be eliminated, leaving C).

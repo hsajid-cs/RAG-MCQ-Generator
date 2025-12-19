@@ -1,0 +1,5 @@
+## Building in Pieces
+
+Inside a warehouse in Brooklyn, New York, steel beams and flat metal sheeting rest on top of a workbench. Lying next to them is a diagram indicating where every beam and metal screw belongs. Each of these components 12 have been carefully checked off the pieces are all in place and ready to be assembled. The metal might not look like much yet, but it is on its way to becoming part of the world's 13 tallest modular residence. Soon, workers will configure the beams into walls, turning them into scaffolding for rooms. The rooms will then be linked together to form apartments.
+
+14 Modular buildings differ from mobile homes in two important ways. The modules themselves are six-sided boxes consisting of a floor, a ceiling, and four walls. They are constructed in a remote facility and then delivered to their site of use. Because the modules must be transported over highways on the backs of flat-bed trucks, they are generally no longer than the trucks and no wider than 16 feet.

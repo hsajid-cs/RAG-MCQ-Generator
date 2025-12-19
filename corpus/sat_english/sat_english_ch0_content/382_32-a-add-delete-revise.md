@@ -1,0 +1,3 @@
+## 32. A: Add/Delete/Revise
+
+What is the paragraph about? The writer's discovery of self-publishing and personal experience with it (note the repeated use of the word $I$ ). What is the sentence in question about? James Altucher's success with his book. So it's off-topic. That makes A) correct. (NB: whenever you see an off-topic answer, pay it special attention. The primary reason that any sentence doesn't belong is that it's off-topic.)

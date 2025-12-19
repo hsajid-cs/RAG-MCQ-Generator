@@ -1,0 +1,3 @@
+## 37. B: Add/Delete/Revise
+
+This question asks you about the main topic of the paragraph, so you need to establish that piece of information before you answer the question. What is the paragraph about? That the brain is active during the day but less so at night, allowing emotions to express themselves in dreams. That idea is most consistent with B). Notice that you need to read the entire paragraph to figure that out; if you read only the first couple of sentences, you don't have enough information to answer the question. The word however halfway through the paragraph is a big clue that important information will follow.

@@ -1,0 +1,481 @@
+[
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.1 SCALARS",
+    "question": "Which of the following is a scalar quantity?",
+    "choices": [
+      "Displacement",
+      "Velocity",
+      "Speed",
+      "Force"
+    ],
+    "answer": "C",
+    "rationale": "Speed is a scalar quantity as it is described solely by its magnitude without any mention of direction. Displacement, velocity, and force are all vector quantities, requiring both magnitude and direction for their complete specification.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/001_2-1-scalars.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.3 PRODUCT OF TWO VECTORS",
+    "question": "The scalar product of two vectors A and B is maximum when the angle between them is:",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "180 degrees",
+      "45 degrees"
+    ],
+    "answer": "A",
+    "rationale": "The scalar product (dot product) of two vectors A and B is given by A.B = AB cos(theta). This product is maximum when cos(theta) is maximum, which occurs when theta = 0 degrees (vectors are parallel).",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/003_2-3-product-of-two-vectors.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.4 EQUATIONS OF MOTIONS",
+    "question": "Which equation of motion relates final velocity (v), initial velocity (u), acceleration (a), and time (t)?",
+    "choices": [
+      "v^2 = u^2 + 2as",
+      "s = ut + 1/2 at^2",
+      "v = u + at",
+      "s = 1/2 (u+v)t"
+    ],
+    "answer": "C",
+    "rationale": "The first equation of motion, v = u + at, directly relates final velocity (v), initial velocity (u), acceleration (a), and time (t).",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/004_2-4-equations-of-motions.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.6 PROJECTILE MOTION",
+    "question": "In projectile motion, neglecting air resistance, the horizontal component of velocity is:",
+    "choices": [
+      "Maximum at the highest point",
+      "Zero at the highest point",
+      "Constant throughout the motion",
+      "Minimum at the highest point"
+    ],
+    "answer": "C",
+    "rationale": "In projectile motion without air resistance, there is no horizontal acceleration. Therefore, the horizontal component of velocity remains constant throughout the trajectory.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/006_2-6-projectile-motion.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.7 MOMENTUM",
+    "question": "According to Newton's second law of motion, the rate of change of momentum of a body is equal to:",
+    "choices": [
+      "Impulse",
+      "Force",
+      "Acceleration",
+      "Velocity"
+    ],
+    "answer": "B",
+    "rationale": "Newton's second law of motion states that the rate of change of momentum of a body is directly proportional to the applied force and takes place in the direction of the force. Mathematically, F = dp/dt.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/007_2-7-momentum.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.8 ELASTIC AND INELASTIC COLLISIONS",
+    "question": "In an elastic collision, which of the following quantities is conserved?",
+    "choices": [
+      "Only momentum",
+      "Only kinetic energy",
+      "Both momentum and kinetic energy",
+      "Neither momentum nor kinetic energy"
+    ],
+    "answer": "C",
+    "rationale": "In an elastic collision, both the total linear momentum and the total kinetic energy of the system are conserved.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/008_2-8-elastic-and-inelastic-collisions.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.6 PROJECTILE MOTION",
+    "question": "For a projectile launched from the ground, the range is maximum when the launch angle is:",
+    "choices": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "answer": "B",
+    "rationale": "The range of a projectile is given by R = (v^2 * sin(2*theta))/g. The range is maximum when sin(2*theta) is maximum, which occurs when 2*theta = 90 degrees, so theta = 45 degrees.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/006_2-6-projectile-motion.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.3 PRODUCT OF TWO VECTORS",
+    "question": "The vector product of two vectors A and B is zero if they are:",
+    "choices": [
+      "Perpendicular",
+      "Parallel",
+      "Antiparallel",
+      "Both B and C"
+    ],
+    "answer": "D",
+    "rationale": "The vector product (cross product) of two vectors A and B is given by A x B = AB sin(theta) * n-hat. This product is zero if sin(theta) is zero, which happens when theta = 0 degrees (parallel) or theta = 180 degrees (antiparallel).",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/003_2-3-product-of-two-vectors.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.7 MOMENTUM",
+    "question": "The SI unit of impulse is the same as the SI unit of:",
+    "choices": [
+      "Momentum",
+      "Force",
+      "Energy",
+      "Power"
+    ],
+    "answer": "A",
+    "rationale": "Impulse is defined as the change in momentum (J = delta p). Since momentum is mass times velocity (kg m/s), the SI unit of impulse is kg m/s, which is the same as the SI unit of momentum.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/007_2-7-momentum.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "2: Force and Motion",
+    "topic": "2.4 EQUATIONS OF MOTIONS",
+    "question": "A car starts from rest and accelerates uniformly at 2 m/s^2. What is its velocity after 5 seconds?",
+    "choices": [
+      "5 m/s",
+      "10 m/s",
+      "20 m/s",
+      "25 m/s"
+    ],
+    "answer": "B",
+    "rationale": "Using the first equation of motion, v = u + at, where u = 0 m/s (starts from rest), a = 2 m/s^2, and t = 5 s. Therefore, v = 0 + (2 m/s^2)(5 s) = 10 m/s.",
+    "citation": "physics/grade_11/physics11_ch2_force_and_motion_learning_obje/004_2-4-equations-of-motions.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.1 COULOMB'S LAW",
+    "question": "According to Coulomb's law, the electrostatic force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them. If the distance between two charges is doubled, what happens to the force between them?",
+    "choices": [
+      "The force remains the same.",
+      "The force is doubled.",
+      "The force is halved.",
+      "The force is reduced to one-fourth."
+    ],
+    "answer": "D",
+    "rationale": "Coulomb's Law states that F is inversely proportional to the square of the distance (r^2). If the distance is doubled (2r), the force becomes proportional to 1/(2r)^2 = 1/(4r^2), meaning the force is reduced to one-fourth of its original value.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/000_chapter_overview.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.2 FIELDS OF FORCE",
+    "question": "What is the definition of electric field strength (or electric field intensity) at a point?",
+    "choices": [
+      "The force experienced by a unit positive charge placed at that point.",
+      "The potential energy of a unit positive charge placed at that point.",
+      "The work done in bringing a unit positive charge from infinity to that point.",
+      "The product of the force and the charge placed at that point."
+    ],
+    "answer": "A",
+    "rationale": "Electric field strength (E) is defined as the force (F) experienced by a positive test charge (q0) placed at that point, mathematically expressed as E = F/q0. This represents the force per unit charge.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/001_12-2-fields-of-force.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.3 ELECTRIC FIELD LINES",
+    "question": "Which of the following is NOT a property of electric field lines?",
+    "choices": [
+      "Electric field lines originate from positive charges and end on negative charges.",
+      "The tangent to a field line at any point gives the direction of the electric field at that point.",
+      "Electric field lines are closer where the field is strong and farther apart where the field is weak.",
+      "Electric field lines can cross each other if the field is non-uniform."
+    ],
+    "answer": "D",
+    "rationale": "Electric field lines never cross each other because the electric field has a unique direction at any given point. If lines crossed, it would imply multiple directions for the electric field at that point, which is not possible.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/002_12-3-electric-field-lines.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.4 APPLICATIONS OF ELECTROSTATICS",
+    "question": "In an inkjet printer, what is the function of the deflection plates?",
+    "choices": [
+      "To heat the ink droplets.",
+      "To charge the ink droplets.",
+      "To divert charged ink droplets into a gutter.",
+      "To transfer the toner to the paper."
+    ],
+    "answer": "C",
+    "rationale": "The deflection plates, which form a parallel plate capacitor, are used to divert charged ink droplets into a gutter when they are not needed on the paper, thus controlling where the ink lands.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/003_12-4-applications-of-electrostatics.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.5 ELECTRIC FLUX",
+    "question": "What is the SI unit of electric flux?",
+    "choices": [
+      "Newton per Coulomb (N/C)",
+      "Volt per meter (V/m)",
+      "Newton meter squared per Coulomb (Nm^2/C)",
+      "Joule per Coulomb (J/C)"
+    ],
+    "answer": "C",
+    "rationale": "Electric flux is defined as the dot product of the electric field (E) and the area vector (A), where E is in N/C and A is in m^2. Therefore, the unit of electric flux is Nm^2/C.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/004_12-5-electric-flux.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.7 GAUSS'S LAW",
+    "question": "Gauss's law states that the electric flux through any closed surface is proportional to the total charge enclosed within that surface. What is the constant of proportionality in SI units?",
+    "choices": [
+      "Permittivity of free space (ε₀)",
+      "Permeability of free space (μ₀)",
+      "Planck's constant (h)",
+      "Coulomb's constant (k)"
+    ],
+    "answer": "A",
+    "rationale": "Gauss's law in electrostatics states that the total electric flux (Φ) through any closed surface is equal to the net charge (Q) enclosed by the surface divided by the permittivity of free space (ε₀). Mathematically, Φ = Q/ε₀.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/006_12-7-gauss's-law.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.8 APPLICATIONS OF GAUSS'S LAW",
+    "question": "According to Gauss's law, what is the electric field intensity inside a hollow charged metal sphere?",
+    "choices": [
+      "It is equal to σ/ε₀.",
+      "It is equal to σ/2ε₀.",
+      "It is zero.",
+      "It depends on the radius of the sphere."
+    ],
+    "answer": "C",
+    "rationale": "For a hollow charged metal sphere, any Gaussian surface drawn inside the conducting sphere encloses zero net charge. According to Gauss's law, if the enclosed charge is zero, the electric field must also be zero.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/007_12-8-applications-of-gauss's-law.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.9 ELECTRIC POTENTIAL",
+    "question": "What is the relationship between electric field strength (E) and potential gradient (ΔV/Δr)?",
+    "choices": [
+      "E = ΔV/Δr",
+      "E = -ΔV/Δr",
+      "E = Δr/ΔV",
+      "E = -(Δr/ΔV)"
+    ],
+    "answer": "B",
+    "rationale": "Electric field strength is equal to the negative of the potential gradient. The negative sign indicates that the electric field points in the direction of decreasing electric potential.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/008_12-9-electric-potential.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE",
+    "question": "What is the electric potential at a distance 'r' from a point charge 'q'?",
+    "choices": [
+      "V = (1/4πε₀) * (q/r^2)",
+      "V = (1/4πε₀) * (q^2/r)",
+      "V = (1/4πε₀) * (q/r)",
+      "V = (1/4πε₀) * (r/q)"
+    ],
+    "answer": "C",
+    "rationale": "The electric potential (V) at a distance (r) from a point charge (q) is given by the formula V = (1/4πε₀) * (q/r), where ε₀ is the permittivity of free space.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/009_12-10-electric-potential-at-a-point-due-to-a-point-charge.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "12: ELECTROSTATICS",
+    "topic": "12.12 CAPACITANCE OF A PARALLEL PLATE CAPACITOR",
+    "question": "How does the capacitance of a parallel plate capacitor change if the area of the plates is doubled, keeping the distance between the plates and the dielectric material constant?",
+    "choices": [
+      "The capacitance remains the same.",
+      "The capacitance is doubled.",
+      "The capacitance is halved.",
+      "The capacitance increases by a factor of four."
+    ],
+    "answer": "B",
+    "rationale": "The capacitance of a parallel plate capacitor is given by C = (ε₀εr * A) / d. If the area (A) is doubled, the capacitance (C) is directly proportional to the area, so the capacitance also doubles.",
+    "citation": "physics/grade_12/physics12_ch12_electrostatics_learning_object/011_12-12-capacitance-of-a-parallel-plate-capacitor.md"
+  }  ,{
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "9: Electrostatics and Current Electricity",
+    "topic": "9.6 ELECTRON VOLT",
+    "question": "What is the energy acquired by a particle carrying a charge of 2e when it falls through a potential difference of 3.0 V?",
+    "choices": [
+      "6.0 eV",
+      "9.6 x 10^-19 J",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "C",
+    "rationale": "The energy acquired by a particle with charge q falling through a potential difference \\Delta V is given by \\Delta U = q \\Delta V. In this case, q = 2e and \\Delta V = 3.0 V. So, \\Delta U = (2e)(3.0 V) = 6.0 eV. Since 1 eV = 1.6 x 10^-19 J, 6.0 eV = 6.0 x 1.6 x 10^-19 J = 9.6 x 10^-19 J. Therefore, both options A and B are correct.",
+    "citation": "physics/grade_11/physics11_ch9_electrostatics_and_current_ele/003_9-6-electron-volt.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "16: ALTERNATING CURRENT",
+    "topic": "16.1 ALTERNATING CURRENT",
+    "question": "What is the relationship between the frequency (f) and the time period (T) of an alternating current?",
+    "choices": [
+      "f = T",
+      "f = 1/T",
+      "f = T^2",
+      "f = sqrt(T)"
+    ],
+    "answer": "B",
+    "rationale": "The frequency of alternating current or voltage is defined as the reciprocal of its time period. The time period (T) is the time taken for one complete cycle, and frequency (f) is the number of cycles per second.",
+    "citation": "physics/grade_12/physics12_ch16_alternating_current_learning_o/001_16-1-alternating-current.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "21: NUCLEAR PHYSICS",
+    "topic": "21.14 BASIC FORCES OF NATURE",
+    "question": "Which of the following is NOT considered a fundamental force of nature?",
+    "choices": [
+      "Gravitational force",
+      "Magnetic force",
+      "Weak nuclear force",
+      "Strong nuclear force"
+    ],
+    "answer": "B",
+    "rationale": "The four fundamental forces of nature are the gravitational force, the electromagnetic force, the weak nuclear force, and the strong nuclear force. Magnetic force is a manifestation of the electromagnetic force, not a separate fundamental force.",
+    "citation": "physics/grade_12/physics12_ch21_nuclear_physics_learning_objec/004_21-14-basic-forces-of-nature.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "4: Work, Energy and Power",
+    "topic": "4.4 POWER",
+    "question": "What is the SI unit of power?",
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": "B",
+    "rationale": "Power is defined as the rate at which work is done. The SI unit of power is the Watt (W), which is equivalent to one Joule per second (J/s).",
+    "citation": "physics/grade_11/physics11_ch4_work_energy_and_power_learning/002_4-4-power.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "9: Electrostatics and Current Electricity",
+    "topic": "9.1 COULOMB'S LAW",
+    "question": "According to Coulomb's law, the electrostatic force between two point charges is directly proportional to:",
+    "choices": [
+      "The sum of the magnitudes of the charges",
+      "The product of the magnitudes of the charges",
+      "The square of the distance between the charges",
+      "The inverse square of the distance between the charges"
+    ],
+    "answer": "B",
+    "rationale": "Coulomb's law states that the magnitude of the electrostatic force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.",
+    "citation": "physics/grade_11/physics11_ch9_electrostatics_and_current_ele/001_9-1-coulomb-s-law.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "16: ALTERNATING CURRENT",
+    "topic": "16.3 A.C. THROUGH A RESISTOR",
+    "question": "In a purely resistive AC circuit, the instantaneous values of voltage and current are:",
+    "choices": [
+      "Always out of phase",
+      "Always lagging the voltage by 90 degrees",
+      "Always leading the voltage by 90 degrees",
+      "Always in phase"
+    ],
+    "answer": "D",
+    "rationale": "In a purely resistive AC circuit, the voltage across the resistor and the current flowing through it are in phase. This means they reach their maximum and minimum values at the same instant.",
+    "citation": "physics/grade_12/physics12_ch16_alternating_current_learning_o/003_16-3-a-c-through-a-resistor.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "4: Work, Energy and Power",
+    "topic": "4.7 WORK-ENERGY THEOREM",
+    "question": "According to the work-energy theorem, the change in kinetic energy of an object is equal to:",
+    "choices": [
+      "The work done by a conservative force",
+      "The work done by a non-conservative force",
+      "The work done by the net force",
+      "The potential energy change"
+    ],
+    "answer": "C",
+    "rationale": "The work-energy theorem states that the work done on an object by the net force is equal to the change in the object's kinetic energy.",
+    "citation": "physics/grade_11/physics11_ch4_work_energy_and_power_learning/005_4-7-work-energy-theorem.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "9: Electrostatics and Current Electricity",
+    "topic": "9.2 ELECTRIC FIELD STRENGTH",
+    "question": "What is the unit of electric field strength?",
+    "choices": [
+      "Volt per meter",
+      "Newton per Coulomb",
+      "Joule per Coulomb",
+      "Both A and B"
+    ],
+    "answer": "D",
+    "rationale": "Electric field strength is defined as the force per unit charge. Therefore, its unit is Newton per Coulomb (N/C). It is also equivalent to Volt per meter (V/m), as potential difference is related to electric field by E = -dV/dx.",
+    "citation": "physics/grade_11/physics11_ch9_electrostatics_and_current_ele/002_9-2-electric-field-strength.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "12",
+    "chapter": "16: ALTERNATING CURRENT",
+    "topic": "16.5 A.C. THROUGH AN INDUCTOR",
+    "question": "What is the opposition offered by an inductor to the flow of AC called?",
+    "choices": [
+      "Capacitive Reactance",
+      "Resistance",
+      "Impedance",
+      "Inductive Reactance"
+    ],
+    "answer": "D",
+    "rationale": "The opposition offered by an inductor to the flow of alternating current is called inductive reactance (XL), which is given by XL = \\omega L = 2 \\pi f L.",
+    "citation": "physics/grade_12/physics12_ch16_alternating_current_learning_o/005_16-5-a-c-through-an-inductor.md"
+  },
+  {
+    "subject": "physics",
+    "grade": "11",
+    "chapter": "9: Electrostatics and Current Electricity",
+    "topic": "9.10 ELECTRIC CURRENT",
+    "question": "What is the SI unit of electric current?",
+    "choices": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Coulomb"
+    ],
+    "answer": "C",
+    "rationale": "The SI unit of electric current is the Ampere (A), which is defined as the flow of one Coulomb of charge per second.",
+    "citation": "physics/grade_11/physics11_ch9_electrostatics_and_current_ele/007_9-10-electric-current.md"
+  }
+]

@@ -1,0 +1,3 @@
+### 6.1 Sequence
+
+A sequence is a function whose domain is the set $N$ of all natural numbers, whereas the range may be any subset of real numbers or complex numbers. The numbers in a sequence are called its terms. We denote the first term of a sequence as $a_{1}$, second term as $a_{2}$ and so on. The $n^{\text {th }}$ term of a sequence is denoted by $a_{n}$, which may also be referred to as the general term of the sequence, and the terms immediately preceding it are called the $(n-1)^{\text {st }}$ term, the $(n-2)^{\text {nd }}$ term and so on.

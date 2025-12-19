@@ -1,0 +1,780 @@
+{
+  "name": "Aamna",
+  "created_at": "2025-11-30T20:00:41.371262",
+  "sessions": [
+    {
+      "start_time": "2025-11-30T20:00:49.548562",
+      "questions": [
+        {
+          "question": "Find the derivative of f(x) = x^2 from the first principle....",
+          "subject": "mathematics",
+          "topic": "2.1.2 Derivative of a Function",
+          "correct_answer": "A",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 4.68,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "What is the formula for the magnitude (or norm or length) of a vector u = [x, y, z] in R^3?...",
+          "subject": "mathematics",
+          "topic": "14.1.4 Magnitude of a Vector in Space",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 8.62,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "What is the imaginary part of the complex number z = a + ib?...",
+          "subject": "mathematics",
+          "topic": "1.1.1 Recognition of Real and Imaginary Parts",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 2.92,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "Which of the following is the correct way to represent the vector [x, y] in terms of the standard un...",
+          "subject": "mathematics",
+          "topic": "7.1.7 Another notation for representing vectors in plane",
+          "correct_answer": "C",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 8.21,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "According to the Parallelogram Law of Addition, if two vectors u and v are represented by two adjace...",
+          "subject": "mathematics",
+          "topic": "(ii) Parallelogram Law of Addition",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 5.19,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "What is a piecewise function?...",
+          "subject": "mathematics",
+          "topic": "1.1.5 Graph of Functions Defined Piece-wise",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 3.95,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "Two matrices are conformable for addition if they satisfy which condition?...",
+          "subject": "mathematics",
+          "topic": "4.2.1 Addition of Matrices",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 5.64,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "What is the formula for the number of permutations of r objects taken from a set of n objects?...",
+          "subject": "mathematics",
+          "topic": "7.2 Permutations",
+          "correct_answer": "A",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 2.27,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "Which of the following correctly defines the relationship between domain, codomain, and range of a f...",
+          "subject": "mathematics",
+          "topic": "2.1.1 Definition (Function, Domain, Codomain, Range)",
+          "correct_answer": "D",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 6.74,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "Let f(x) = sqrt(x^2 - 9). Find the domain and range of f....",
+          "subject": "mathematics",
+          "topic": "1.1.2 Definition (Function - Domain - Range)",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 8.76,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        }
+      ],
+      "correct_count": 6,
+      "total_count": 10,
+      "subject_breakdown": {
+        "mathematics": {
+          "correct": 6,
+          "total": 10
+        }
+      },
+      "topic_breakdown": {
+        "2.1.2 Derivative of a Function": {
+          "correct": 0,
+          "total": 1
+        },
+        "14.1.4 Magnitude of a Vector in Space": {
+          "correct": 1,
+          "total": 1
+        },
+        "1.1.1 Recognition of Real and Imaginary Parts": {
+          "correct": 1,
+          "total": 1
+        },
+        "7.1.7 Another notation for representing vectors in plane": {
+          "correct": 0,
+          "total": 1
+        },
+        "(ii) Parallelogram Law of Addition": {
+          "correct": 1,
+          "total": 1
+        },
+        "1.1.5 Graph of Functions Defined Piece-wise": {
+          "correct": 1,
+          "total": 1
+        },
+        "4.2.1 Addition of Matrices": {
+          "correct": 1,
+          "total": 1
+        },
+        "7.2 Permutations": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.1.1 Definition (Function, Domain, Codomain, Range)": {
+          "correct": 0,
+          "total": 1
+        },
+        "1.1.2 Definition (Function - Domain - Range)": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "theta_changes": {},
+      "end_time": "2025-11-30T20:01:57.647122"
+    },
+    {
+      "start_time": "2025-12-01T11:46:59.205735",
+      "questions": [
+        {
+          "question": "What is the SI unit of electric current?...",
+          "subject": "physics",
+          "topic": "9.10 ELECTRIC CURRENT",
+          "correct_answer": "C",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 15.72
+        },
+        {
+          "question": "Which of the following is NOT a property of electric field lines?...",
+          "subject": "physics",
+          "topic": "12.3 ELECTRIC FIELD LINES",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 51.24
+        },
+        {
+          "question": "Which of the following is a scalar quantity?...",
+          "subject": "physics",
+          "topic": "2.1 SCALARS",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 22.98
+        },
+        {
+          "question": "According to the work-energy theorem, the change in kinetic energy of an object is equal to:...",
+          "subject": "physics",
+          "topic": "4.7 WORK-ENERGY THEOREM",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 52.95
+        },
+        {
+          "question": "According to Newton's second law of motion, the rate of change of momentum of a body is equal to:...",
+          "subject": "physics",
+          "topic": "2.7 MOMENTUM",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 48.08
+        },
+        {
+          "question": "What is the electric potential at a distance 'r' from a point charge 'q'?...",
+          "subject": "physics",
+          "topic": "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 15.82
+        },
+        {
+          "question": "What is the relationship between the frequency (f) and the time period (T) of an alternating current...",
+          "subject": "physics",
+          "topic": "16.1 ALTERNATING CURRENT",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 55.06
+        },
+        {
+          "question": "In an inkjet printer, what is the function of the deflection plates?...",
+          "subject": "physics",
+          "topic": "12.4 APPLICATIONS OF ELECTROSTATICS",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 57.54
+        },
+        {
+          "question": "The vector product of two vectors A and B is zero if they are:...",
+          "subject": "physics",
+          "topic": "2.3 PRODUCT OF TWO VECTORS",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 17.21
+        },
+        {
+          "question": "What is the definition of electric field strength (or electric field intensity) at a point?...",
+          "subject": "physics",
+          "topic": "12.2 FIELDS OF FORCE",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 42.23
+        },
+        {
+          "question": "Which equation of motion relates final velocity (v), initial velocity (u), acceleration (a), and tim...",
+          "subject": "physics",
+          "topic": "2.4 EQUATIONS OF MOTIONS",
+          "correct_answer": "C",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 38.5
+        },
+        {
+          "question": "According to Gauss's law, what is the electric field intensity inside a hollow charged metal sphere?...",
+          "subject": "physics",
+          "topic": "12.8 APPLICATIONS OF GAUSS'S LAW",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 31.76
+        },
+        {
+          "question": "In a purely resistive AC circuit, the instantaneous values of voltage and current are:...",
+          "subject": "physics",
+          "topic": "16.3 A.C. THROUGH A RESISTOR",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 14.37
+        },
+        {
+          "question": "According to Coulomb's law, the electrostatic force between two point charges is directly proportion...",
+          "subject": "physics",
+          "topic": "12.1 COULOMB'S LAW",
+          "correct_answer": "D",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 46.0
+        },
+        {
+          "question": "In projectile motion, neglecting air resistance, the horizontal component of velocity is:...",
+          "subject": "physics",
+          "topic": "2.6 PROJECTILE MOTION",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 53.04
+        }
+      ],
+      "correct_count": 10,
+      "total_count": 15,
+      "subject_breakdown": {
+        "physics": {
+          "correct": 10,
+          "total": 15
+        }
+      },
+      "topic_breakdown": {
+        "9.10 ELECTRIC CURRENT": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.3 ELECTRIC FIELD LINES": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.1 SCALARS": {
+          "correct": 1,
+          "total": 1
+        },
+        "4.7 WORK-ENERGY THEOREM": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.7 MOMENTUM": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE": {
+          "correct": 1,
+          "total": 1
+        },
+        "16.1 ALTERNATING CURRENT": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.4 APPLICATIONS OF ELECTROSTATICS": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.3 PRODUCT OF TWO VECTORS": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.2 FIELDS OF FORCE": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.4 EQUATIONS OF MOTIONS": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.8 APPLICATIONS OF GAUSS'S LAW": {
+          "correct": 1,
+          "total": 1
+        },
+        "16.3 A.C. THROUGH A RESISTOR": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.1 COULOMB'S LAW": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.6 PROJECTILE MOTION": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.205941"
+    },
+    {
+      "start_time": "2025-12-01T11:46:59.206151",
+      "questions": [
+        {
+          "question": "The writer is considering deleting the underlined sentence. Should it be kept or deleted?...",
+          "subject": "sat_english",
+          "topic": "14",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 13.51
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "A. It's vs. Its",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 11.46
+        },
+        {
+          "question": "Which choice best corrects the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Non-Essential Clauses with Commas, Dashes, and Parentheses",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 46.56
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Parts of Speech",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 24.19
+        },
+        {
+          "question": "Which choice best maintains the logical flow of the passage?...",
+          "subject": "sat_english",
+          "topic": "1",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 22.21
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 25.38
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "And two general points:",
+          "correct_answer": "C",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 57.3
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Word Pairs",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 23.37
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 46.54
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "34. D: Parallel Structure",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 53.9
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "subject-Verb Agreement, p. 178",
+          "correct_answer": "B",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 18.8
+        },
+        {
+          "question": "Which choice best corrects the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Correct",
+          "correct_answer": "C",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 11.13
+        },
+        {
+          "question": "The writer is considering deleting the underlined sentence. Should it be kept or deleted?...",
+          "subject": "sat_english",
+          "topic": "Adding, Deleting, and Revising, p. 25",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 53.21
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 46.52
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "2",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 10.89
+        }
+      ],
+      "correct_count": 11,
+      "total_count": 15,
+      "subject_breakdown": {
+        "sat_english": {
+          "correct": 11,
+          "total": 15
+        }
+      },
+      "topic_breakdown": {
+        "14": {
+          "correct": 1,
+          "total": 1
+        },
+        "A. It's vs. Its": {
+          "correct": 1,
+          "total": 1
+        },
+        "Non-Essential Clauses with Commas, Dashes, and Parentheses": {
+          "correct": 1,
+          "total": 1
+        },
+        "Parts of Speech": {
+          "correct": 1,
+          "total": 1
+        },
+        "1": {
+          "correct": 1,
+          "total": 1
+        },
+        "I": {
+          "correct": 3,
+          "total": 3
+        },
+        "And two general points:": {
+          "correct": 0,
+          "total": 1
+        },
+        "Word Pairs": {
+          "correct": 1,
+          "total": 1
+        },
+        "34. D: Parallel Structure": {
+          "correct": 1,
+          "total": 1
+        },
+        "subject-Verb Agreement, p. 178": {
+          "correct": 0,
+          "total": 1
+        },
+        "Correct": {
+          "correct": 0,
+          "total": 1
+        },
+        "Adding, Deleting, and Revising, p. 25": {
+          "correct": 1,
+          "total": 1
+        },
+        "2": {
+          "correct": 0,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.206233"
+    }
+  ],
+  "total_questions_attempted": 40,
+  "total_correct": 27,
+  "topic_performance": {
+    "2.1.2 Derivative of a Function": {
+      "correct": 0,
+      "total": 1
+    },
+    "14.1.4 Magnitude of a Vector in Space": {
+      "correct": 1,
+      "total": 1
+    },
+    "1.1.1 Recognition of Real and Imaginary Parts": {
+      "correct": 1,
+      "total": 1
+    },
+    "7.1.7 Another notation for representing vectors in plane": {
+      "correct": 0,
+      "total": 1
+    },
+    "(ii) Parallelogram Law of Addition": {
+      "correct": 1,
+      "total": 1
+    },
+    "1.1.5 Graph of Functions Defined Piece-wise": {
+      "correct": 1,
+      "total": 1
+    },
+    "4.2.1 Addition of Matrices": {
+      "correct": 1,
+      "total": 1
+    },
+    "7.2 Permutations": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.1.1 Definition (Function, Domain, Codomain, Range)": {
+      "correct": 0,
+      "total": 1
+    },
+    "1.1.2 Definition (Function - Domain - Range)": {
+      "correct": 1,
+      "total": 1
+    },
+    "9.10 ELECTRIC CURRENT": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.3 ELECTRIC FIELD LINES": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.1 SCALARS": {
+      "correct": 1,
+      "total": 1
+    },
+    "4.7 WORK-ENERGY THEOREM": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.7 MOMENTUM": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE": {
+      "correct": 1,
+      "total": 1
+    },
+    "16.1 ALTERNATING CURRENT": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.4 APPLICATIONS OF ELECTROSTATICS": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.3 PRODUCT OF TWO VECTORS": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.2 FIELDS OF FORCE": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.4 EQUATIONS OF MOTIONS": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.8 APPLICATIONS OF GAUSS'S LAW": {
+      "correct": 1,
+      "total": 1
+    },
+    "16.3 A.C. THROUGH A RESISTOR": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.1 COULOMB'S LAW": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.6 PROJECTILE MOTION": {
+      "correct": 1,
+      "total": 1
+    },
+    "14": {
+      "correct": 1,
+      "total": 1
+    },
+    "A. It's vs. Its": {
+      "correct": 1,
+      "total": 1
+    },
+    "Non-Essential Clauses with Commas, Dashes, and Parentheses": {
+      "correct": 1,
+      "total": 1
+    },
+    "Parts of Speech": {
+      "correct": 1,
+      "total": 1
+    },
+    "1": {
+      "correct": 1,
+      "total": 1
+    },
+    "I": {
+      "correct": 3,
+      "total": 3
+    },
+    "And two general points:": {
+      "correct": 0,
+      "total": 1
+    },
+    "Word Pairs": {
+      "correct": 1,
+      "total": 1
+    },
+    "34. D: Parallel Structure": {
+      "correct": 1,
+      "total": 1
+    },
+    "subject-Verb Agreement, p. 178": {
+      "correct": 0,
+      "total": 1
+    },
+    "Correct": {
+      "correct": 0,
+      "total": 1
+    },
+    "Adding, Deleting, and Revising, p. 25": {
+      "correct": 1,
+      "total": 1
+    },
+    "2": {
+      "correct": 0,
+      "total": 1
+    }
+  },
+  "subject_performance": {
+    "mathematics": {
+      "correct": 6,
+      "total": 10
+    },
+    "physics": {
+      "correct": 10,
+      "total": 15
+    },
+    "sat_english": {
+      "correct": 11,
+      "total": 15
+    }
+  },
+  "theta_by_topic": {
+    "2.1.2 Derivative of a Function": -0.0375,
+    "14.1.4 Magnitude of a Vector in Space": 0.0375,
+    "1.1.1 Recognition of Real and Imaginary Parts": 0.0375,
+    "7.1.7 Another notation for representing vectors in plane": -0.0375,
+    "(ii) Parallelogram Law of Addition": 0.0375,
+    "1.1.5 Graph of Functions Defined Piece-wise": 0.0375,
+    "4.2.1 Addition of Matrices": 0.0375,
+    "7.2 Permutations": -0.0375,
+    "2.1.1 Definition (Function, Domain, Codomain, Range)": -0.0375,
+    "1.1.2 Definition (Function - Domain - Range)": 0.0375
+  },
+  "last_activity": "2025-12-01T11:46:59.206277"
+}

@@ -1,0 +1,3 @@
+## 9. B: Add/Delete/Revise
+
+Before you can figure out which answer provides the most relevant detail, you need to figure out what the surrounding sentences are about. What do we learn from them? That the circus has been a huge success all over the world. In B), the number $\$ 800$ million is pretty clearly consistent with that idea. A) and D) refer to distinctive aspects of Cirque du Soleil, but they are not directly related to its success. C) is vaguely related to the idea of success, but the fact that Cirque du Soleil is popular with both adults and children does not explicitly convey the idea of enormous success.

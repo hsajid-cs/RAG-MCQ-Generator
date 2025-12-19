@@ -1,0 +1,3 @@
+## 40. B: Add/Change/Delete
+
+To figure out which second example would be most consistent with the first example, you need to know what the first example is all about. For the fullest explanation, back up two sentences to get the point that the examples must support: when people are worried about something, they tend to dream about it. The correct answer must simply describe a negative situation that expresses itself in a dream. The word concerned in B) is the only negative word in all the answer choices, suggesting that it is correct. Logically, being concerned about missing an important deadline would be stressful. All of the other answers are neutral or positive.

@@ -1,0 +1,3 @@
+## 33. D: Paragraph Order
+
+Focus on the beginning of paragraph 4, which must follow logically from the end of the paragraph that comes before it. The statement At first, I wasn't sure how I should proceed and the subsequent discussion of the writer's discovery of self-publishing tells us that it does not belong where it is. Paragraph 3 describes the steps the writer took to actually self-publish the book, and logically, the writer must have taken those steps after learning about self-publishing. The beginning of paragraph 4 fits with the end of paragraph 2 -the writer did not know how to proceed after being rejected by traditional publishing companies. So paragraph 4 belongs after paragraph 2, i.e., before paragraph 3. That makes the answer D).

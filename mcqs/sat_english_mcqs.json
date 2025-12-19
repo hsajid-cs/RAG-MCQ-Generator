@@ -1,0 +1,602 @@
+[
+  {
+    "chapter": "SAT English Content",
+    "topic": "Strong Transitions",
+    "concept": "Transition Logic",
+    "passage": "The previous chapter explored grammatical sentence joining techniques. This chapter, however, will focus on joining sentences based on meaning. On the SAT, you will need to identify when transitions create logical connections between sentences. **Therefore, transition questions are crucial for demonstrating a strong understanding of logical flow.** These questions appear frequently, so mastering them is essential.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) Consequently, transition questions are crucial for demonstrating a strong understanding of logical flow.",
+      "C) Nevertheless, transition questions are crucial for demonstrating a strong understanding of logical flow.",
+      "D) In contrast, transition questions are crucial for demonstrating a strong understanding of logical flow."
+    ],
+    "answer": "A",
+    "rationale": "The original sentence correctly uses 'Therefore' to indicate a logical consequence of the preceding statement (the focus on meaning in this chapter). Option B uses 'Consequently,' which is similar but 'Therefore' is a more direct and common transition in this context. Option C, 'Nevertheless,' implies a contrast, which is not present. Option D, 'In contrast,' also implies a contrast, which is incorrect.",
+    "citations": [
+      "sat_english_ch0_content/080_1.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Parts of Speech",
+    "concept": "Subject-Verb Agreement",
+    "passage": "The research team, after months of careful observation, **have finally concluded** their study on migratory bird patterns. Their findings are expected to significantly impact conservation efforts.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) has finally concluded",
+      "C) are finally concluding",
+      "D) finally concluded"
+    ],
+    "answer": "B",
+    "rationale": "The subject of the sentence is 'research team,' which is a singular collective noun. Therefore, the singular verb 'has concluded' is required. Option A is incorrect because 'have concluded' is plural. Option C uses the present progressive tense, which is not appropriate for a completed action. Option D, 'finally concluded,' is grammatically correct but the addition of 'has' in option B provides a more complete and standard verb phrase for a completed action.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Parts of Speech",
+    "concept": "Pronoun Agreement",
+    "passage": "Each student in the advanced placement program is expected to submit **their** final project by the end of the semester. The grading rubric emphasizes originality and thorough research.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) his or her",
+      "C) their",
+      "D) its"
+    ],
+    "answer": "B",
+    "rationale": "The antecedent 'Each student' is singular. Therefore, the pronoun referring to it must also be singular. 'Their' is a plural pronoun and is incorrect here. 'His or her' is the grammatically correct singular pronoun. While 'their' is increasingly used as a singular pronoun, on the SAT, traditional grammar rules are generally enforced. 'Its' is an inanimate pronoun and is incorrect.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Transitions 2",
+    "concept": "Transition Logic",
+    "passage": "The initial proposal for the Mars colonization project was met with skepticism. **However, subsequent advancements in life support technology have reignited interest.** The feasibility of long-term human habitation on the red planet is now being re-evaluated.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) In addition, subsequent advancements in life support technology have reignited interest.",
+      "C) Consequently, subsequent advancements in life support technology have reignited interest.",
+      "D) Nevertheless, subsequent advancements in life support technology have reignited interest."
+    ],
+    "answer": "D",
+    "rationale": "The first sentence states skepticism, implying a negative or hesitant reaction. The second sentence describes advancements that have reignited interest, which is a contrasting development. 'Nevertheless' is the most appropriate transition to signal this contrast. 'In addition' (B) suggests adding more information, which isn't the primary relationship. 'Consequently' (C) implies a cause-and-effect relationship, which is not directly established between skepticism and the advancements themselves.",
+    "citations": [
+      "sat_english_ch0_content/080_1.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Non-Essential Clauses with Commas, Dashes, and Parentheses",
+    "concept": "Comma Usage with Non-Essential Clauses",
+    "passage": "The software, **which was developed by a team of leading engineers**, is designed to streamline complex data analysis. It has already received positive feedback from early users.",
+    "question": "Which choice best corrects the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) software which was developed by a team of leading engineers",
+      "C) software, that was developed by a team of leading engineers,",
+      "D) software: which was developed by a team of leading engineers,"
+    ],
+    "answer": "A",
+    "rationale": "The clause 'which was developed by a team of leading engineers' is a non-essential clause because it provides additional information about the software but is not necessary to identify which software is being discussed. Non-essential clauses should be set off by commas. The original sentence correctly uses commas to enclose this non-essential clause. Option B removes the commas, making it a restrictive clause, which is incorrect. Option C uses 'that' instead of 'which' for a non-essential clause, which is generally incorrect; 'that' is typically used for restrictive clauses. Option D uses a colon, which is not appropriate for setting off a non-essential clause in this manner.",
+    "citations": [
+      "sat_english_ch0_content/097_2.md",
+      "sat_english_ch0_content/339_non-essential-clauses-with-commas-dashes-and-paren.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "5",
+    "concept": "subject-verb agreement",
+    "passage": "The research team **has discovered** several new species of insects in the rainforest. Their findings will be published next month.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) have discovered",
+      "C) are discovering",
+      "D) discovered"
+    ],
+    "answer": "A",
+    "rationale": "The subject of the sentence is 'team,' which is a singular noun. Therefore, the singular verb 'has discovered' is the correct choice. 'Have discovered' is plural, 'are discovering' is present progressive and doesn't fit the context of a completed discovery, and 'discovered' is past tense but the present perfect tense 'has discovered' is more appropriate for a recent discovery with ongoing implications.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "34. D: Parallel Structure",
+    "concept": "parallelism",
+    "passage": "For countries with few natural resources, the pallets open up a whole new world of possibilities, allowing them to import goods, to export products, and **to compete** in the global market.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) competing",
+      "C) compete",
+      "D) competition"
+    ],
+    "answer": "C",
+    "rationale": "The sentence lists three parallel actions that the pallets allow countries to do: 'import goods,' 'export products,' and 'compete in the global market.' All three phrases should be in the infinitive form or a consistent verb form. 'To compete' maintains the parallel structure with 'to import' and 'to export.' 'Competing' is a gerund/present participle, and 'competition' is a noun, both of which break the parallel structure.",
+    "citations": [
+      "sat_english_ch0_content/240_parallel-structure.md",
+      "sat_english_ch0_content/371_21-b-parallel-structure.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "E. Between Compound Items",
+    "concept": "sentence insertion",
+    "passage": "The study of ancient civilizations offers a unique window into the past. It allows us to understand the development of human societies, their beliefs, and their technological advancements. **This knowledge helps us contextualize our own present.** By examining their successes and failures, we can gain valuable insights into the human condition.",
+    "question": "The writer is considering adding the underlined sentence. Should the sentence be kept or deleted?",
+    "choices": [
+      "A) Kept, because it provides a logical connection between the previous and following sentences.",
+      "B) Kept, because it elaborates on the benefits of studying ancient civilizations.",
+      "C) Deleted, because it interrupts the flow of the paragraph.",
+      "D) Deleted, because it is redundant with the previous sentence."
+    ],
+    "answer": "A",
+    "rationale": "The sentence 'This knowledge helps us contextualize our own present' serves as a crucial transition. The preceding sentence discusses understanding past societies, and the following sentence explains how examining their successes and failures provides insights. The underlined sentence bridges these two ideas by stating that the knowledge gained from studying the past helps us understand the present. Therefore, it is essential for maintaining logical flow.",
+    "citations": [
+      "sat_english_ch0_content/000_chapter.md",
+      "sat_english_ch0_content/019_inserting-sentences.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "F. Gerunds $=$ Singular",
+    "concept": "subject-verb agreement with gerunds",
+    "passage": "For many people, **learning to play a musical instrument are** a lifelong pursuit. It requires dedication, practice, and a good ear for melody.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) learning to play a musical instrument is",
+      "C) learning to play a musical instrument were",
+      "D) to learn to play a musical instrument are"
+    ],
+    "answer": "B",
+    "rationale": "The subject of the sentence is the gerund phrase 'learning to play a musical instrument.' Gerunds acting as subjects are always singular. Therefore, the singular verb 'is' is required. 'Are' is plural, 'were' is past tense plural, and 'to learn to play a musical instrument are' is grammatically incorrect and uses a plural verb with a singular subject.",
+    "citations": [
+      "sat_english_ch0_content/362_12-b-subject-verb-agreement.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "subject-Verb Agreement, p. 178",
+    "concept": "subject-verb agreement with intervening phrases",
+    "passage": "The collection of rare stamps, along with the antique coins and the vintage photographs, **are** displayed in the main hall. These items are part of a new exhibit on historical artifacts.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) is",
+      "C) were",
+      "D) have been"
+    ],
+    "answer": "B",
+    "rationale": "The subject of the sentence is 'collection,' which is singular. The phrase 'along with the antique coins and the vintage photographs' is an intervening phrase and does not affect the number of the verb. Therefore, the singular verb 'is' is required to agree with the singular subject 'collection.' 'Are' and 'have been' are plural, and 'were' is past tense plural, neither of which agrees with the singular subject.",
+    "citations": [
+      "sat_english_ch0_content/000_chapter.md",
+      "sat_english_ch0_content/001_and-two-general-points.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Word Pairs",
+    "concept": "Word Choice",
+    "passage": "The new software is designed to be **compatible with** older operating systems. This ensures a smooth transition for users who have not yet upgraded their hardware.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) comparable to",
+      "C) consistent with",
+      "D) compliant with"
+    ],
+    "answer": "A",
+    "rationale": "The phrase 'compatible with' is the correct idiom to express that two systems can work together. 'Comparable to' means similar to. 'Consistent with' means in agreement with. 'Compliant with' means obeying a rule or law.",
+    "citations": [
+      "sat_english_ch0_content/398_apostrophes-pronouns-and-nouns.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "1",
+    "concept": "Transition Logic",
+    "passage": "The initial experiment showed promising results, indicating a potential breakthrough. **However, subsequent trials failed to replicate the findings.** This led the research team to re-evaluate their methodology.",
+    "question": "Which choice best maintains the logical flow of the passage?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) Consequently, subsequent trials failed to replicate the findings.",
+      "C) Furthermore, subsequent trials failed to replicate the findings.",
+      "D) Nevertheless, subsequent trials failed to replicate the findings."
+    ],
+    "answer": "A",
+    "rationale": "The word 'However' correctly signals a contrast between the promising initial results and the subsequent failure to replicate them. 'Consequently' implies a direct result, which isn't the case here. 'Furthermore' adds information, not contrast. 'Nevertheless' is similar to 'however' but often implies overcoming an obstacle, which isn't the primary function here.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "And two general points:",
+    "concept": "Sentence Structure",
+    "passage": "The author argues that the new policy will have a detrimental effect on small businesses. **This is because the increased regulations will raise operating costs significantly.**",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) This is because, the increased regulations will raise operating costs significantly.",
+      "C) This is because the increased regulations will raise operating costs significantly.",
+      "D) This is because: the increased regulations will raise operating costs significantly."
+    ],
+    "answer": "C",
+    "rationale": "The sentence is a standard declarative sentence where 'because' introduces a subordinate clause. No punctuation is needed between 'because' and the clause that follows. Option B incorrectly places a comma after 'because'. Option D incorrectly uses a colon, which is used to introduce a list or an explanation, but not in this construction.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "1",
+    "concept": "Subject-Verb Agreement",
+    "passage": "The collection of rare stamps, along with the antique coins, **are** displayed in a climate-controlled vault. Security is paramount for these valuable items.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) is",
+      "C) were",
+      "D) have been"
+    ],
+    "answer": "B",
+    "rationale": "The subject of the sentence is 'collection,' which is singular. The phrase 'along with the antique coins' is a prepositional phrase and does not affect the number of the subject. Therefore, the singular verb 'is' is required.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "BUT:",
+    "concept": "Pronoun Agreement",
+    "passage": "Each student must bring **their** own lunch to the field trip. The school will not be providing any food.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) his or her",
+      "C) his",
+      "D) its"
+    ],
+    "answer": "B",
+    "rationale": "The pronoun 'Each' is singular. Therefore, the possessive pronoun referring to 'each student' must also be singular. 'His or her' is the grammatically correct singular possessive pronoun. While 'their' is increasingly accepted as a singular pronoun, 'his or her' is the more traditional and universally accepted correct answer in formal writing on standardized tests.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "1",
+    "concept": "pronoun agreement",
+    "passage": "The research team **has discovered** several new species of insects in the rainforest. Their findings will be published next month.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) have discovered",
+      "C) are discovering",
+      "D) discovered"
+    ],
+    "answer": "A",
+    "rationale": "The subject of the sentence is 'research team,' which is a singular collective noun. Therefore, the singular verb 'has discovered' is the correct choice. 'Have discovered' would be used if 'team' were treated as plural (e.g., 'The team members have discovered'). 'Are discovering' is present progressive and doesn't fit the context of a completed discovery. 'Discovered' is simple past tense, which could be acceptable, but 'has discovered' (present perfect) emphasizes the recentness and relevance of the discovery to the present, which is fitting given the follow-up sentence about publication.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "3",
+    "concept": "comma splice",
+    "passage": "Marie Curie was a pioneering scientist**,** she won two Nobel Prizes in different fields.",
+    "question": "Which choice best corrects the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) scientist; ",
+      "C) scientist. She",
+      "D) scientist, and she"
+    ],
+    "answer": "C",
+    "rationale": "The original sentence contains a comma splice, where two independent clauses are joined only by a comma. Option A is incorrect because it maintains the comma splice. Option B uses a semicolon, which is a correct way to join two closely related independent clauses, but the following sentence begins with 'she,' making it a fragment if preceded by a semicolon. Option D creates a run-on sentence by adding 'and she' without proper punctuation or restructuring. Option C correctly separates the two independent clauses into two distinct sentences, creating a grammatically sound structure.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "14",
+    "concept": "add/delete/revise",
+    "passage": "Solar panels convert sunlight into electricity. **This process helps reduce carbon emissions.** Wind turbines are another renewable energy source.",
+    "question": "The writer is considering deleting the underlined sentence. Should it be kept or deleted?",
+    "choices": [
+      "A) Kept, because it explains the environmental benefit.",
+      "B) Kept, because it contrasts with wind energy.",
+      "C) Deleted, because it interrupts the flow.",
+      "D) Deleted, because it doesn't relate to solar panels."
+    ],
+    "answer": "A",
+    "rationale": "The sentence 'This process helps reduce carbon emissions' directly explains a significant environmental benefit of solar panels, which is the topic of the preceding sentence. Keeping it adds valuable information and context. Option B is incorrect because the sentence does not contrast solar panels with wind turbines; it elaborates on solar panels. Options C and D are incorrect because the sentence is relevant and enhances the passage's discussion of renewable energy by highlighting a key advantage.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Verbs: Agreement and Tense",
+    "concept": "verb tense",
+    "passage": "During my internship at the historical society, I spent hours **writing; sometimes, I sat for hours** researching old documents.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) writing, sometimes I sat for hours",
+      "C) writing, sometimes, I sat for hours",
+      "D) writing sometimes I sat for hours"
+    ],
+    "answer": "B",
+    "rationale": "The original sentence uses a semicolon to connect two independent clauses, but the second clause, 'sometimes, I sat for hours,' is not a complete independent clause when following 'writing' as a gerund. Option A is incorrect because the semicolon is misused. Option D creates a run-on sentence by omitting necessary punctuation. Option C incorrectly places commas around 'sometimes.' Option B correctly uses a comma to separate the participial phrase 'writing' from the independent clause 'sometimes I sat for hours,' creating a grammatically sound and logical sentence structure that flows well.",
+    "citations": [
+      "sat_english_ch0_content/311_25.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "5. A: Transition",
+    "concept": "transition logic",
+    "passage": "The theory of relativity was first proposed by Albert Einstein. **This first being proposed** by him in 1905, it revolutionized physics.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) this first being proposed",
+      "C) this theory was first proposed",
+      "D) and the first theory proposed"
+    ],
+    "answer": "C",
+    "rationale": "The underlined portion 'This first being proposed' is a dangling modifier and does not create a clear or grammatically correct connection between the two sentences. Option A is incorrect because it maintains the awkward phrasing. Option D creates a sentence fragment. Option B is also a dangling modifier. Option C correctly restructures the sentence to create a clear cause-and-effect relationship: the theory's proposal led to its revolutionary impact. It transforms the participial phrase into a complete independent clause that logically follows the initial statement.",
+    "citations": [
+      "sat_english_ch0_content/080_1.md",
+      "sat_english_ch0_content/001_and-two-general-points.md"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Diction, Tense",
+    "concept": "Verb Tense Consistency",
+    "passage": "The research team **has discovered** several new species of insects in the rainforest. Their findings will be published next month.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) have discovered",
+      "C) are discovering",
+      "D) discovered"
+    ],
+    "answer": "A",
+    "rationale": "The passage describes a completed action (discovery) that has relevance to the future (publication). The present perfect tense 'has discovered' accurately reflects this. Option B is incorrect because 'team' is singular. Option C is incorrect because the discovery is a completed event, not an ongoing one. Option D is incorrect because it suggests the discovery happened at a specific past time, which isn't implied and doesn't connect as well to the future publication.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/311_25.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Adding, Deleting, and Revising, p. 25",
+    "concept": "Relevance and Cohesion",
+    "passage": "The primary goal of the expedition was to document the biodiversity of the Amazon basin. **The team collected numerous samples of flora and fauna.** However, unforeseen logistical challenges significantly hampered their progress.",
+    "question": "The writer is considering deleting the underlined sentence. Should it be kept or deleted?",
+    "choices": [
+      "A) Kept, because it provides a specific example of the expedition's work.",
+      "B) Kept, because it explains why the challenges were unforeseen.",
+      "C) Deleted, because it is redundant with the first sentence.",
+      "D) Deleted, because it shifts the focus away from the challenges."
+    ],
+    "answer": "A",
+    "rationale": "The sentence 'The team collected numerous samples of flora and fauna' provides a concrete detail that supports the general statement in the first sentence about documenting biodiversity. It adds valuable information about the expedition's activities. Option B is incorrect; the sentence doesn't explain why the challenges were unforeseen. Option C is incorrect; it's not redundant, but rather a specific illustration. Option D is incorrect; while it mentions the team's work, it doesn't detract from the subsequent mention of challenges.",
+    "citations": [
+      "sat_english_ch0_content/000_chapter.md",
+      "sat_english_ch0_content/009_adding-deleting-and-revising.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "Correct",
+    "concept": "Comma Splice",
+    "passage": "The new software is incredibly efficient**,** it can process data in half the time of the previous version.",
+    "question": "Which choice best corrects the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) software is incredibly efficient; it",
+      "C) software is incredibly efficient. It",
+      "D) software is incredibly efficient, and it"
+    ],
+    "answer": "C",
+    "rationale": "The underlined portion creates a comma splice, joining two independent clauses with only a comma. Option A is incorrect because it maintains the comma splice. Option B uses a semicolon correctly to join two closely related independent clauses. Option C correctly separates the two independent clauses into two distinct sentences. Option D uses a comma and a coordinating conjunction, which is also a correct way to join the clauses. However, option C provides a more direct and often preferred separation for clarity in this context.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "I",
+    "concept": "Pronoun Agreement",
+    "passage": "Each of the students was asked to bring **their** own lunch to the field trip.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) his or her",
+      "C) its",
+      "D) our"
+    ],
+    "answer": "B",
+    "rationale": "The pronoun 'their' is plural, but it refers to the singular antecedent 'Each of the students.' According to traditional grammar rules, a singular antecedent requires a singular pronoun. 'His or her' is the correct singular pronoun to use. Option A is incorrect because it maintains the pronoun agreement error. Option C is incorrect because 'its' is used for inanimate objects or animals, not people. Option D is incorrect because 'our' is plural and refers to the speaker's group, not the students individually.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "2",
+    "concept": "Parallelism",
+    "passage": "The aspiring musician practiced diligently, composing new melodies, and **to perform** at local venues.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) performing",
+      "C) performed",
+      "D) to be performing"
+    ],
+    "answer": "B",
+    "rationale": "The sentence lists three activities the musician engaged in: practicing, composing, and performing. These activities should be presented in parallel grammatical form. 'Practiced' and 'composing' are in the -ing form (gerunds or present participles used in a series). Therefore, the final item should also be in the -ing form. Option A is incorrect because 'to perform' is an infinitive and breaks the parallel structure. Option C is incorrect because 'performed' is a past tense verb and does not fit the parallel structure. Option D is incorrect because 'to be performing' is an infinitive phrase and also breaks the parallel structure.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "I",
+    "concept": "transition logic",
+    "passage": "The SAT Writing and Language test assesses a student's ability to identify and correct errors in grammar, punctuation, sentence structure, and rhetoric. **Therefore, it is crucial to understand the underlying principles of English usage.** Mastery of these principles will lead to a higher score.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) However, it is crucial to understand the underlying principles of English usage.",
+      "C) In addition, it is crucial to understand the underlying principles of English usage.",
+      "D) For example, it is crucial to understand the underlying principles of English usage."
+    ],
+    "answer": "A",
+    "rationale": "The original sentence logically follows the preceding sentence, which describes what the SAT Writing and Language test assesses. The word 'Therefore' indicates a logical consequence or conclusion, which fits the context of explaining why understanding English usage is important for the test. Option B ('However') introduces a contrast that is not present. Option C ('In addition') suggests adding a new, separate point, which is not the case here. Option D ('For example') implies that the importance of understanding English usage is an example of what the test assesses, which is not the intended meaning.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "A. It's vs. Its",
+    "concept": "apostrophe usage",
+    "passage": "Some critics of the Internet have argued that it is a danger because **it's vastness** threatens people's intellectual health. They believe that the sheer volume of information can be overwhelming and detrimental.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) its vastness",
+      "C) its' vastness",
+      "D) it is vastness"
+    ],
+    "answer": "B",
+    "rationale": "The sentence requires the possessive form of 'it' to modify the noun 'vastness'. 'Its' is the possessive pronoun, meaning 'belonging to it'. 'It's' is a contraction of 'it is' or 'it has'. Therefore, 'its vastness' is the correct construction. Option A is incorrect because 'it's' is a contraction and does not fit here. Option C ('its'') is not a recognized English word. Option D ('it is vastness') is grammatically incorrect.",
+    "citations": [
+      "sat_english_ch0_content/156_a-it-s-vs-its.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "I",
+    "concept": "subject-verb agreement",
+    "passage": "The SAT Writing and Language test assesses a student's ability to identify and correct errors in grammar, punctuation, sentence structure, and rhetoric. **Mastery of these principles are leading** to a higher score.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) Mastery of these principles is leading",
+      "C) Mastery of these principles lead",
+      "D) Mastery of these principles leads"
+    ],
+    "answer": "D",
+    "rationale": "The subject of the sentence is 'Mastery,' which is singular. Therefore, the verb must also be singular. 'Leads' is the singular present tense form of the verb 'to lead.' Option A is incorrect because 'are leading' is plural. Option B is grammatically correct but changes the tense unnecessarily. Option C ('lead') is the plural present tense form.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "2",
+    "concept": "sentence structure",
+    "passage": "The SAT Writing and Language test assesses a student's ability to identify and correct errors in grammar, punctuation, sentence structure, and rhetoric. **You don't need to read closely, but you shouldn't just skip from question to question.** Otherwise, you're likely to miss important information.",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) Reading closely is not required, but skipping from question to question should be avoided.",
+      "C) While reading closely is not necessary, skipping from question to question is not advised.",
+      "D) Although reading closely is not required, skipping from question to question is not advised."
+    ],
+    "answer": "A",
+    "rationale": "The original sentence is a clear and concise imperative statement that directly addresses the reader. It effectively conveys the advice about how to approach the passage. Option B rephrases the idea but is less direct and slightly more wordy. Option C and D use subordinating conjunctions ('While' and 'Although') which create a slightly different emphasis and are not as direct as the original imperative. The original phrasing is the most effective for giving direct advice.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "chapter": "SAT English Content",
+    "topic": "I",
+    "concept": "parallelism",
+    "passage": "The SAT Writing and Language test assesses a student's ability to identify and correct errors in grammar, punctuation, sentence structure, and rhetoric. **Familiarizing yourself with these terms before you begin will help you move through the explanations and exercises more easily, and understanding parts of speech is important.**",
+    "question": "Which choice best replaces the underlined portion?",
+    "choices": [
+      "A) NO CHANGE",
+      "B) Familiarizing yourself with these terms before you begin will help you move through the explanations and exercises more easily, and understanding parts of speech is important.",
+      "C) Familiarizing yourself with these terms before you begin will help you move through the explanations and exercises more easily, and to understand parts of speech is important.",
+      "D) Familiarizing yourself with these terms before you begin will help you move through the explanations and exercises more easily, and understanding parts of speech will be important."
+    ],
+    "answer": "A",
+    "rationale": "The original sentence uses parallel structure. The first part of the compound predicate is 'will help you move through the explanations and exercises more easily' (verb phrase). The second part is 'understanding parts of speech is important' (noun clause acting as a subject). While not perfectly parallel in structure (gerund phrase vs. noun clause), the meaning and flow are acceptable. Option B is identical to the original and thus correct. Option C introduces an infinitive ('to understand') which breaks the parallelism with the gerund phrase 'Familiarizing'. Option D changes the tense and structure of the second part, disrupting the parallel flow with the first part.",
+    "citations": [
+      "sat_english_ch0_content/001_and-two-general-points.md",
+      "sat_english_ch0_content/000_chapter.md"
+    ],
+    "difficulty": "hard"
+  }
+]

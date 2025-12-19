@@ -1,0 +1,755 @@
+{
+  "name": "Umer",
+  "created_at": "2025-11-30T19:56:45.861422",
+  "sessions": [
+    {
+      "start_time": "2025-11-30T19:56:55.924424",
+      "questions": [
+        {
+          "question": "What is a feasible region in the context of linear programming?...",
+          "subject": "mathematics",
+          "topic": "5.5 Feasible solution set",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 18.83,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "What is the definition of a sequence in mathematics?...",
+          "subject": "mathematics",
+          "topic": "6.1 Sequence",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 2.85,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "Find the derivative of f(x) = x^2 from the first principle....",
+          "subject": "mathematics",
+          "topic": "2.1.2 Derivative of a Function",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 4.7,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "For the vector u = [1, -3], find its magnitude....",
+          "subject": "mathematics",
+          "topic": "7.1.5 Vectors in a Plane",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 4.86,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "What is the definition of the magnitude or norm of a vector u = [x, y] in R^2?...",
+          "subject": "mathematics",
+          "topic": "7.1.5 Vectors in a Plane",
+          "correct_answer": "A",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 3.31,
+          "difficulty": 0.0,
+          "theta_before": -0.0006896150041622445,
+          "theta_after": -0.0006896150041622445
+        },
+        {
+          "question": "What does the difference quotient \\frac{s(t_1) - s(t)}{t_1 - t} represent in the context of a partic...",
+          "subject": "mathematics",
+          "topic": "2.1.1 AVERAGE RATE OF CHANGE",
+          "correct_answer": "B",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 3.21,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "What is the imaginary part of the complex number z = a + ib?...",
+          "subject": "mathematics",
+          "topic": "1.1.1 Recognition of Real and Imaginary Parts",
+          "correct_answer": "A",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 5.26,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "According to the Parallelogram Law of Addition, if two vectors u and v are represented by two adjace...",
+          "subject": "mathematics",
+          "topic": "(ii) Parallelogram Law of Addition",
+          "correct_answer": "A",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 12.69,
+          "difficulty": 0.0,
+          "theta_before": -0.0375,
+          "theta_after": -0.0375
+        },
+        {
+          "question": "In R^3, the vector [x, y, z] can be uniquely represented in terms of the standard unit vectors i, j,...",
+          "subject": "mathematics",
+          "topic": "14.1.5 Components of a Vector",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 7.59,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        },
+        {
+          "question": "What is the method to draw the graph of y = f(x)?...",
+          "subject": "mathematics",
+          "topic": "1.1.4 Graphs of Algebraic functions",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 6.32,
+          "difficulty": 0.0,
+          "theta_before": 0.0375,
+          "theta_after": 0.0375
+        }
+      ],
+      "correct_count": 5,
+      "total_count": 10,
+      "subject_breakdown": {
+        "mathematics": {
+          "correct": 5,
+          "total": 10
+        }
+      },
+      "topic_breakdown": {
+        "5.5 Feasible solution set": {
+          "correct": 0,
+          "total": 1
+        },
+        "6.1 Sequence": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.1.2 Derivative of a Function": {
+          "correct": 1,
+          "total": 1
+        },
+        "7.1.5 Vectors in a Plane": {
+          "correct": 1,
+          "total": 2
+        },
+        "2.1.1 AVERAGE RATE OF CHANGE": {
+          "correct": 0,
+          "total": 1
+        },
+        "1.1.1 Recognition of Real and Imaginary Parts": {
+          "correct": 0,
+          "total": 1
+        },
+        "(ii) Parallelogram Law of Addition": {
+          "correct": 0,
+          "total": 1
+        },
+        "14.1.5 Components of a Vector": {
+          "correct": 1,
+          "total": 1
+        },
+        "1.1.4 Graphs of Algebraic functions": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "theta_changes": {},
+      "end_time": "2025-11-30T19:58:34.491310"
+    },
+    {
+      "start_time": "2025-12-01T11:46:59.326775",
+      "questions": [
+        {
+          "question": "What is the SI unit of electric current?...",
+          "subject": "physics",
+          "topic": "9.10 ELECTRIC CURRENT",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 20.84
+        },
+        {
+          "question": "What is the energy acquired by a particle carrying a charge of 2e when it falls through a potential ...",
+          "subject": "physics",
+          "topic": "9.6 ELECTRON VOLT",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 11.84
+        },
+        {
+          "question": "In projectile motion, neglecting air resistance, the horizontal component of velocity is:...",
+          "subject": "physics",
+          "topic": "2.6 PROJECTILE MOTION",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 24.26
+        },
+        {
+          "question": "What is the relationship between the frequency (f) and the time period (T) of an alternating current...",
+          "subject": "physics",
+          "topic": "16.1 ALTERNATING CURRENT",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 40.97
+        },
+        {
+          "question": "What is the SI unit of power?...",
+          "subject": "physics",
+          "topic": "4.4 POWER",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 28.17
+        },
+        {
+          "question": "What is the unit of electric field strength?...",
+          "subject": "physics",
+          "topic": "9.2 ELECTRIC FIELD STRENGTH",
+          "correct_answer": "D",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 53.57
+        },
+        {
+          "question": "The scalar product of two vectors A and B is maximum when the angle between them is:...",
+          "subject": "physics",
+          "topic": "2.3 PRODUCT OF TWO VECTORS",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 13.56
+        },
+        {
+          "question": "According to the work-energy theorem, the change in kinetic energy of an object is equal to:...",
+          "subject": "physics",
+          "topic": "4.7 WORK-ENERGY THEOREM",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 24.64
+        },
+        {
+          "question": "What is the relationship between electric field strength (E) and potential gradient (ΔV/Δr)?...",
+          "subject": "physics",
+          "topic": "12.9 ELECTRIC POTENTIAL",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 42.7
+        },
+        {
+          "question": "In an inkjet printer, what is the function of the deflection plates?...",
+          "subject": "physics",
+          "topic": "12.4 APPLICATIONS OF ELECTROSTATICS",
+          "correct_answer": "C",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 24.29
+        },
+        {
+          "question": "Which of the following is NOT considered a fundamental force of nature?...",
+          "subject": "physics",
+          "topic": "21.14 BASIC FORCES OF NATURE",
+          "correct_answer": "B",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 48.21
+        },
+        {
+          "question": "Which of the following is NOT a property of electric field lines?...",
+          "subject": "physics",
+          "topic": "12.3 ELECTRIC FIELD LINES",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 41.77
+        },
+        {
+          "question": "What is the definition of electric field strength (or electric field intensity) at a point?...",
+          "subject": "physics",
+          "topic": "12.2 FIELDS OF FORCE",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 58.57
+        },
+        {
+          "question": "What is the opposition offered by an inductor to the flow of AC called?...",
+          "subject": "physics",
+          "topic": "16.5 A.C. THROUGH AN INDUCTOR",
+          "correct_answer": "D",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 12.12
+        },
+        {
+          "question": "The SI unit of impulse is the same as the SI unit of:...",
+          "subject": "physics",
+          "topic": "2.7 MOMENTUM",
+          "correct_answer": "A",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 59.18
+        }
+      ],
+      "correct_count": 10,
+      "total_count": 15,
+      "subject_breakdown": {
+        "physics": {
+          "correct": 10,
+          "total": 15
+        }
+      },
+      "topic_breakdown": {
+        "9.10 ELECTRIC CURRENT": {
+          "correct": 1,
+          "total": 1
+        },
+        "9.6 ELECTRON VOLT": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.6 PROJECTILE MOTION": {
+          "correct": 1,
+          "total": 1
+        },
+        "16.1 ALTERNATING CURRENT": {
+          "correct": 1,
+          "total": 1
+        },
+        "4.4 POWER": {
+          "correct": 1,
+          "total": 1
+        },
+        "9.2 ELECTRIC FIELD STRENGTH": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.3 PRODUCT OF TWO VECTORS": {
+          "correct": 1,
+          "total": 1
+        },
+        "4.7 WORK-ENERGY THEOREM": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.9 ELECTRIC POTENTIAL": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.4 APPLICATIONS OF ELECTROSTATICS": {
+          "correct": 0,
+          "total": 1
+        },
+        "21.14 BASIC FORCES OF NATURE": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.3 ELECTRIC FIELD LINES": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.2 FIELDS OF FORCE": {
+          "correct": 1,
+          "total": 1
+        },
+        "16.5 A.C. THROUGH AN INDUCTOR": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.7 MOMENTUM": {
+          "correct": 0,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.326908"
+    },
+    {
+      "start_time": "2025-12-01T11:46:59.327128",
+      "questions": [
+        {
+          "question": "The writer is considering deleting the underlined sentence. Should it be kept or deleted?...",
+          "subject": "sat_english",
+          "topic": "14",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 35.35
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "5. A: Transition",
+          "correct_answer": "C",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 27.33
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "34. D: Parallel Structure",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 44.88
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Transitions 2",
+          "correct_answer": "D",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 43.23
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "1",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 28.06
+        },
+        {
+          "question": "Which choice best maintains the logical flow of the passage?...",
+          "subject": "sat_english",
+          "topic": "1",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 54.85
+        },
+        {
+          "question": "The writer is considering adding the underlined sentence. Should the sentence be kept or deleted?...",
+          "subject": "sat_english",
+          "topic": "E. Between Compound Items",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 26.37
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 15.59
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "5",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 52.54
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "D",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 57.45
+        },
+        {
+          "question": "The writer is considering deleting the underlined sentence. Should it be kept or deleted?...",
+          "subject": "sat_english",
+          "topic": "Adding, Deleting, and Revising, p. 25",
+          "correct_answer": "A",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 18.29
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 22.19
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 40.45
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "A. It's vs. Its",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 45.09
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Parts of Speech",
+          "correct_answer": "B",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 29.38
+        }
+      ],
+      "correct_count": 9,
+      "total_count": 15,
+      "subject_breakdown": {
+        "sat_english": {
+          "correct": 9,
+          "total": 15
+        }
+      },
+      "topic_breakdown": {
+        "14": {
+          "correct": 1,
+          "total": 1
+        },
+        "5. A: Transition": {
+          "correct": 0,
+          "total": 1
+        },
+        "34. D: Parallel Structure": {
+          "correct": 1,
+          "total": 1
+        },
+        "Transitions 2": {
+          "correct": 0,
+          "total": 1
+        },
+        "1": {
+          "correct": 2,
+          "total": 2
+        },
+        "E. Between Compound Items": {
+          "correct": 1,
+          "total": 1
+        },
+        "I": {
+          "correct": 2,
+          "total": 4
+        },
+        "5": {
+          "correct": 1,
+          "total": 1
+        },
+        "Adding, Deleting, and Revising, p. 25": {
+          "correct": 0,
+          "total": 1
+        },
+        "A. It's vs. Its": {
+          "correct": 1,
+          "total": 1
+        },
+        "Parts of Speech": {
+          "correct": 0,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.327207"
+    }
+  ],
+  "total_questions_attempted": 40,
+  "total_correct": 24,
+  "topic_performance": {
+    "5.5 Feasible solution set": {
+      "correct": 0,
+      "total": 1
+    },
+    "6.1 Sequence": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.1.2 Derivative of a Function": {
+      "correct": 1,
+      "total": 1
+    },
+    "7.1.5 Vectors in a Plane": {
+      "correct": 1,
+      "total": 2
+    },
+    "2.1.1 AVERAGE RATE OF CHANGE": {
+      "correct": 0,
+      "total": 1
+    },
+    "1.1.1 Recognition of Real and Imaginary Parts": {
+      "correct": 0,
+      "total": 1
+    },
+    "(ii) Parallelogram Law of Addition": {
+      "correct": 0,
+      "total": 1
+    },
+    "14.1.5 Components of a Vector": {
+      "correct": 1,
+      "total": 1
+    },
+    "1.1.4 Graphs of Algebraic functions": {
+      "correct": 1,
+      "total": 1
+    },
+    "9.10 ELECTRIC CURRENT": {
+      "correct": 1,
+      "total": 1
+    },
+    "9.6 ELECTRON VOLT": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.6 PROJECTILE MOTION": {
+      "correct": 1,
+      "total": 1
+    },
+    "16.1 ALTERNATING CURRENT": {
+      "correct": 1,
+      "total": 1
+    },
+    "4.4 POWER": {
+      "correct": 1,
+      "total": 1
+    },
+    "9.2 ELECTRIC FIELD STRENGTH": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.3 PRODUCT OF TWO VECTORS": {
+      "correct": 1,
+      "total": 1
+    },
+    "4.7 WORK-ENERGY THEOREM": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.9 ELECTRIC POTENTIAL": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.4 APPLICATIONS OF ELECTROSTATICS": {
+      "correct": 0,
+      "total": 1
+    },
+    "21.14 BASIC FORCES OF NATURE": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.3 ELECTRIC FIELD LINES": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.2 FIELDS OF FORCE": {
+      "correct": 1,
+      "total": 1
+    },
+    "16.5 A.C. THROUGH AN INDUCTOR": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.7 MOMENTUM": {
+      "correct": 0,
+      "total": 1
+    },
+    "14": {
+      "correct": 1,
+      "total": 1
+    },
+    "5. A: Transition": {
+      "correct": 0,
+      "total": 1
+    },
+    "34. D: Parallel Structure": {
+      "correct": 1,
+      "total": 1
+    },
+    "Transitions 2": {
+      "correct": 0,
+      "total": 1
+    },
+    "1": {
+      "correct": 2,
+      "total": 2
+    },
+    "E. Between Compound Items": {
+      "correct": 1,
+      "total": 1
+    },
+    "I": {
+      "correct": 2,
+      "total": 4
+    },
+    "5": {
+      "correct": 1,
+      "total": 1
+    },
+    "Adding, Deleting, and Revising, p. 25": {
+      "correct": 0,
+      "total": 1
+    },
+    "A. It's vs. Its": {
+      "correct": 1,
+      "total": 1
+    },
+    "Parts of Speech": {
+      "correct": 0,
+      "total": 1
+    }
+  },
+  "subject_performance": {
+    "mathematics": {
+      "correct": 5,
+      "total": 10
+    },
+    "physics": {
+      "correct": 10,
+      "total": 15
+    },
+    "sat_english": {
+      "correct": 9,
+      "total": 15
+    }
+  },
+  "theta_by_topic": {
+    "5.5 Feasible solution set": -0.0375,
+    "6.1 Sequence": 0.0375,
+    "2.1.2 Derivative of a Function": 0.0375,
+    "7.1.5 Vectors in a Plane": -0.0006896150041622445,
+    "2.1.1 AVERAGE RATE OF CHANGE": -0.0375,
+    "1.1.1 Recognition of Real and Imaginary Parts": -0.0375,
+    "(ii) Parallelogram Law of Addition": -0.0375,
+    "14.1.5 Components of a Vector": 0.0375,
+    "1.1.4 Graphs of Algebraic functions": 0.0375
+  },
+  "last_activity": "2025-12-01T11:46:59.327220"
+}

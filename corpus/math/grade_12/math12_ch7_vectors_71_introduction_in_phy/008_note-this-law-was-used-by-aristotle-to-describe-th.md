@@ -1,0 +1,1 @@
+### **Note:** This law was used by Aristotle to describe the combined action of two forces.

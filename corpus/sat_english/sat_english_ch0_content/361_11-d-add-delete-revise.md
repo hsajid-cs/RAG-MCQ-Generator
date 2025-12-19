@@ -1,0 +1,3 @@
+## 11. D: Add/Delete/Revise
+
+In order to answer this question, you need to know the main idea of the passage. If you had to put it in your own words, you could say something like "Guy Laliberté is an amazing guy." The answer that comes generally closest to that idea is D), which is also consistent with the discussion of Laliberté's charity in the last paragraph. Notice that this is the only answer that contains a more general idea-all the other answers contain specific information, primarily related to the One Drop Foundation.

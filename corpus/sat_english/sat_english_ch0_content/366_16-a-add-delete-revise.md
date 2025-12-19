@@ -1,0 +1,3 @@
+## 16. A: Add/Delete/Revise
+
+When you are asked whether a sentence should be added, start by checking the previous sentence or couple of sentences. The sentence to be inserted must follow logically. What does the previous sentence indicate? That modular buildings used to be built primarily in areas where traditional buildings couldn't be built. What does the sentence in question describe? The use of modular buildings in Antarctica. Logically, that's a remote place where traditional construction would be impossible. This sentence provides an example of the idea in the previous sentence, so it is relevant, and the answer is A).

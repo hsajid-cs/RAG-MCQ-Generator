@@ -1,0 +1,3 @@
+### 5.4 PROBLEM CONSTRAINTS
+
+In the beginning we described that linear inequalities prescribe limitations and restrictions on allocation of available sources. While tackling a certain problem from every day life each linear inequality concerning the problem is named as problem constraint. The system of linear inequalities involved in the problem concerned are called problem constraints. The variables used in the system of linear inequalities relating to the problems of every day life are non-negative and are called non-negative constraints. These nonnegative constraints play an important role for taking decision. So these variables are called decision variables.

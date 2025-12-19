@@ -1,0 +1,1 @@
+### 4.3.4 Derivation of Standard Forms of Equations of Straight Lines

@@ -1,0 +1,3 @@
+### 5.6 LINEAR PROGRAMMING
+
+A function which is to be maximized or minimized is called an **objective function**. Note that there are infinitely many feasible solutions in the feasible region. The feasible solution which maximizes or minimizes the objective function is called the **optimal solution**. The theorem of linear programming states that the maximum and minimum values of the objective function occur at corner points of the feasible region.

@@ -1,0 +1,3 @@
+## 6. D: Sentence vs. Fragment, Non-Essential Clause
+
+The easiest way to answer this question is to recognize that the sentence contains a nonessential clause: which Laliberté came up with while on vacation in Hawaii. (Note that you cannot recognize this construction unless you back up and read the sentence from the beginning.) When the non-essential clause is removed, you are left with nonsense: The name... and reflects his idea that the sun stands for energy and youth. The simplest way to turn that statement back into a sentence is to remove the word and, which makes D) the answer.

@@ -1,0 +1,3 @@
+## 20. C: Dangling Modifier
+
+Let's start with A). Who is using the crane? The workers. But workers does not appear immediately after the comma, so the sentence contains a dangling modifier. On its own, B) is awkward and incorrectly places a comma before a preposition (onto), but it also creates a nonsense construction when plugged back into the sentence. D) makes sense on its own but creates a fragment when plugged in. C) makes sense both independently and when it is plugged in: where correctly refers back to foundation.

@@ -1,0 +1,3 @@
+## 19. B: Sentence Order
+
+What is sentence 5 about? What happens after the walls are in place. So logically, the previous sentence must have something to do with putting the walls in place. If you scan the paragraph for the word walls, you'll see that it appears in sentence 2. Logically, sentence 5 fits after that. That is confirmed by the phrase As a finishing touch in sentence 3-the paragraph must mention the addition of the roof (sentence 5) before it talks about finishing. So B) is correct.

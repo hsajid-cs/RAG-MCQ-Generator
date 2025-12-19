@@ -1,0 +1,3 @@
+## It's Only a Dream
+
+Whether you're flying above the pyramids like a bird, taking a final exam for a class you took two years ago, or $\mathbf{3 4}$ explore a pirate ship at the bottom of the ocean, dreaming can be a truly bizarre experience. Scientists have been studying dreams for decades, but they continue to lack answers to fundamental questions about how and why dreaming occurs. 35 For example, they do not know whether dreams actually have a physiological, biological or psychological function. Still, those questions have not stopped them from speculating. 36

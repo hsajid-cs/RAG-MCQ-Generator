@@ -1,0 +1,1037 @@
+{
+  "name": "Aadel",
+  "created_at": "2025-12-01T11:46:59.341923",
+  "sessions": [
+    {
+      "start_time": "2025-12-01T11:46:59.341992",
+      "questions": [
+        {
+          "question": "Let f(x) = sqrt(x^2 - 9). Find the domain and range of f....",
+          "subject": "mathematics",
+          "topic": "1.1.2 Definition (Function - Domain - Range)",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 43.71
+        },
+        {
+          "question": "What does the difference quotient represent in the context of motion?...",
+          "subject": "mathematics",
+          "topic": "2.1.1 AVERAGE RATE OF CHANGE",
+          "correct_answer": "A",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 57.44
+        },
+        {
+          "question": "What is a piecewise function?...",
+          "subject": "mathematics",
+          "topic": "1.1.5 Graph of Functions Defined Piece-wise",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 56.7
+        },
+        {
+          "question": "Find an equation of the circle with centre at (-3,5) and radius 7....",
+          "subject": "mathematics",
+          "topic": "6.1.1 Equation of a Circle",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 25.95
+        },
+        {
+          "question": "What is a feasible region in the context of linear programming?...",
+          "subject": "mathematics",
+          "topic": "5.5 Feasible solution set",
+          "correct_answer": "B",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 44.52
+        },
+        {
+          "question": "Which of the following is the correct way to represent the vector [x, y] in terms of the standard un...",
+          "subject": "mathematics",
+          "topic": "7.1.7 Another notation for representing vectors in plane",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 39.05
+        },
+        {
+          "question": "What is the definition of the magnitude or norm of a vector u = [x, y] in R^2?...",
+          "subject": "mathematics",
+          "topic": "7.1.5 Vectors in a Plane",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 11.46
+        },
+        {
+          "question": "What is the imaginary unit 'i' defined as?...",
+          "subject": "mathematics",
+          "topic": "1.1 Complex Numbers",
+          "correct_answer": "B",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 37.23
+        },
+        {
+          "question": "What is the formula for the number of permutations of r objects taken from a set of n objects?...",
+          "subject": "mathematics",
+          "topic": "7.2 Permutations",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 37.49
+        },
+        {
+          "question": "For the vector u = [1, -3], find its magnitude....",
+          "subject": "mathematics",
+          "topic": "7.1.5 Vectors in a Plane",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 57.62
+        },
+        {
+          "question": "Two matrices are conformable for addition if they satisfy which condition?...",
+          "subject": "mathematics",
+          "topic": "4.2.1 Addition of Matrices",
+          "correct_answer": "C",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 57.93
+        },
+        {
+          "question": "What is the imaginary part of the complex number z = a + ib?...",
+          "subject": "mathematics",
+          "topic": "1.1.1 Recognition of Real and Imaginary Parts",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 24.3
+        },
+        {
+          "question": "Find the derivative of f(x) = x^2 from the first principle....",
+          "subject": "mathematics",
+          "topic": "2.1.2 Derivative of a Function",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 40.96
+        },
+        {
+          "question": "What is the formula for the magnitude (or norm or length) of a vector u = [x, y, z] in R^3?...",
+          "subject": "mathematics",
+          "topic": "14.1.4 Magnitude of a Vector in Space",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 15.66
+        },
+        {
+          "question": "According to the Parallelogram Law of Addition, if two vectors u and v are represented by two adjace...",
+          "subject": "mathematics",
+          "topic": "(ii) Parallelogram Law of Addition",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 35.89
+        },
+        {
+          "question": "How is the value of a function f at x denoted?...",
+          "subject": "mathematics",
+          "topic": "1.1.3 Notation and Value of a Function",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 25.41
+        },
+        {
+          "question": "If a vertical line intersects a graph in more than one point, what does this indicate about the grap...",
+          "subject": "mathematics",
+          "topic": "1.1.4 Graphs of Algebraic functions",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 57.7
+        },
+        {
+          "question": "Which of the following properties of the magnitude of a vector v is correct, where c is a real numbe...",
+          "subject": "mathematics",
+          "topic": "7.1.6 Properties of Magnitude of a Vector",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 59.31
+        },
+        {
+          "question": "What is the standard notation used to represent the value of a function f at an input x?...",
+          "subject": "mathematics",
+          "topic": "1.1.3 Notation and Value of a Function",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 36.56
+        },
+        {
+          "question": "How can a vector [x, y, z] in R^3 be uniquely represented using the standard unit vectors i, j, and ...",
+          "subject": "mathematics",
+          "topic": "14.1.5 Components of a Vector",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 44.24
+        }
+      ],
+      "correct_count": 13,
+      "total_count": 20,
+      "subject_breakdown": {
+        "mathematics": {
+          "correct": 13,
+          "total": 20
+        }
+      },
+      "topic_breakdown": {
+        "1.1.2 Definition (Function - Domain - Range)": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.1.1 AVERAGE RATE OF CHANGE": {
+          "correct": 0,
+          "total": 1
+        },
+        "1.1.5 Graph of Functions Defined Piece-wise": {
+          "correct": 1,
+          "total": 1
+        },
+        "6.1.1 Equation of a Circle": {
+          "correct": 1,
+          "total": 1
+        },
+        "5.5 Feasible solution set": {
+          "correct": 0,
+          "total": 1
+        },
+        "7.1.7 Another notation for representing vectors in plane": {
+          "correct": 1,
+          "total": 1
+        },
+        "7.1.5 Vectors in a Plane": {
+          "correct": 2,
+          "total": 2
+        },
+        "1.1 Complex Numbers": {
+          "correct": 0,
+          "total": 1
+        },
+        "7.2 Permutations": {
+          "correct": 0,
+          "total": 1
+        },
+        "4.2.1 Addition of Matrices": {
+          "correct": 0,
+          "total": 1
+        },
+        "1.1.1 Recognition of Real and Imaginary Parts": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.1.2 Derivative of a Function": {
+          "correct": 1,
+          "total": 1
+        },
+        "14.1.4 Magnitude of a Vector in Space": {
+          "correct": 1,
+          "total": 1
+        },
+        "(ii) Parallelogram Law of Addition": {
+          "correct": 1,
+          "total": 1
+        },
+        "1.1.3 Notation and Value of a Function": {
+          "correct": 1,
+          "total": 2
+        },
+        "1.1.4 Graphs of Algebraic functions": {
+          "correct": 1,
+          "total": 1
+        },
+        "7.1.6 Properties of Magnitude of a Vector": {
+          "correct": 1,
+          "total": 1
+        },
+        "14.1.5 Components of a Vector": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.342125"
+    },
+    {
+      "start_time": "2025-12-01T11:46:59.342244",
+      "questions": [
+        {
+          "question": "In projectile motion, neglecting air resistance, the horizontal component of velocity is:...",
+          "subject": "physics",
+          "topic": "2.6 PROJECTILE MOTION",
+          "correct_answer": "C",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 51.09
+        },
+        {
+          "question": "Which equation of motion relates final velocity (v), initial velocity (u), acceleration (a), and tim...",
+          "subject": "physics",
+          "topic": "2.4 EQUATIONS OF MOTIONS",
+          "correct_answer": "C",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 54.19
+        },
+        {
+          "question": "A car starts from rest and accelerates uniformly at 2 m/s^2. What is its velocity after 5 seconds?...",
+          "subject": "physics",
+          "topic": "2.4 EQUATIONS OF MOTIONS",
+          "correct_answer": "B",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 52.67
+        },
+        {
+          "question": "What is the SI unit of electric flux?...",
+          "subject": "physics",
+          "topic": "12.5 ELECTRIC FLUX",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 18.93
+        },
+        {
+          "question": "What is the SI unit of electric current?...",
+          "subject": "physics",
+          "topic": "9.10 ELECTRIC CURRENT",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 17.49
+        },
+        {
+          "question": "According to Gauss's law, what is the electric field intensity inside a hollow charged metal sphere?...",
+          "subject": "physics",
+          "topic": "12.8 APPLICATIONS OF GAUSS'S LAW",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 21.44
+        },
+        {
+          "question": "According to Newton's second law of motion, the rate of change of momentum of a body is equal to:...",
+          "subject": "physics",
+          "topic": "2.7 MOMENTUM",
+          "correct_answer": "B",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 41.29
+        },
+        {
+          "question": "What is the opposition offered by an inductor to the flow of AC called?...",
+          "subject": "physics",
+          "topic": "16.5 A.C. THROUGH AN INDUCTOR",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 55.29
+        },
+        {
+          "question": "The vector product of two vectors A and B is zero if they are:...",
+          "subject": "physics",
+          "topic": "2.3 PRODUCT OF TWO VECTORS",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 17.63
+        },
+        {
+          "question": "What is the relationship between the frequency (f) and the time period (T) of an alternating current...",
+          "subject": "physics",
+          "topic": "16.1 ALTERNATING CURRENT",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 24.03
+        },
+        {
+          "question": "Which of the following is NOT a property of electric field lines?...",
+          "subject": "physics",
+          "topic": "12.3 ELECTRIC FIELD LINES",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 44.29
+        },
+        {
+          "question": "In a purely resistive AC circuit, the instantaneous values of voltage and current are:...",
+          "subject": "physics",
+          "topic": "16.3 A.C. THROUGH A RESISTOR",
+          "correct_answer": "D",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 43.33
+        },
+        {
+          "question": "What is the relationship between electric field strength (E) and potential gradient (ΔV/Δr)?...",
+          "subject": "physics",
+          "topic": "12.9 ELECTRIC POTENTIAL",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 21.97
+        },
+        {
+          "question": "For a projectile launched from the ground, the range is maximum when the launch angle is:...",
+          "subject": "physics",
+          "topic": "2.6 PROJECTILE MOTION",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 28.61
+        },
+        {
+          "question": "According to the work-energy theorem, the change in kinetic energy of an object is equal to:...",
+          "subject": "physics",
+          "topic": "4.7 WORK-ENERGY THEOREM",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 46.59
+        },
+        {
+          "question": "According to Coulomb's law, the electrostatic force between two point charges is directly proportion...",
+          "subject": "physics",
+          "topic": "9.1 COULOMB'S LAW",
+          "correct_answer": "B",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 47.21
+        },
+        {
+          "question": "What is the unit of electric field strength?...",
+          "subject": "physics",
+          "topic": "9.2 ELECTRIC FIELD STRENGTH",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 50.1
+        },
+        {
+          "question": "What is the definition of electric field strength (or electric field intensity) at a point?...",
+          "subject": "physics",
+          "topic": "12.2 FIELDS OF FORCE",
+          "correct_answer": "A",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 27.88
+        },
+        {
+          "question": "In an inkjet printer, what is the function of the deflection plates?...",
+          "subject": "physics",
+          "topic": "12.4 APPLICATIONS OF ELECTROSTATICS",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 35.12
+        },
+        {
+          "question": "What is the electric potential at a distance 'r' from a point charge 'q'?...",
+          "subject": "physics",
+          "topic": "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 41.64
+        }
+      ],
+      "correct_count": 9,
+      "total_count": 20,
+      "subject_breakdown": {
+        "physics": {
+          "correct": 9,
+          "total": 20
+        }
+      },
+      "topic_breakdown": {
+        "2.6 PROJECTILE MOTION": {
+          "correct": 0,
+          "total": 2
+        },
+        "2.4 EQUATIONS OF MOTIONS": {
+          "correct": 0,
+          "total": 2
+        },
+        "12.5 ELECTRIC FLUX": {
+          "correct": 1,
+          "total": 1
+        },
+        "9.10 ELECTRIC CURRENT": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.8 APPLICATIONS OF GAUSS'S LAW": {
+          "correct": 0,
+          "total": 1
+        },
+        "2.7 MOMENTUM": {
+          "correct": 0,
+          "total": 1
+        },
+        "16.5 A.C. THROUGH AN INDUCTOR": {
+          "correct": 1,
+          "total": 1
+        },
+        "2.3 PRODUCT OF TWO VECTORS": {
+          "correct": 1,
+          "total": 1
+        },
+        "16.1 ALTERNATING CURRENT": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.3 ELECTRIC FIELD LINES": {
+          "correct": 0,
+          "total": 1
+        },
+        "16.3 A.C. THROUGH A RESISTOR": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.9 ELECTRIC POTENTIAL": {
+          "correct": 1,
+          "total": 1
+        },
+        "4.7 WORK-ENERGY THEOREM": {
+          "correct": 1,
+          "total": 1
+        },
+        "9.1 COULOMB'S LAW": {
+          "correct": 0,
+          "total": 1
+        },
+        "9.2 ELECTRIC FIELD STRENGTH": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.2 FIELDS OF FORCE": {
+          "correct": 0,
+          "total": 1
+        },
+        "12.4 APPLICATIONS OF ELECTROSTATICS": {
+          "correct": 1,
+          "total": 1
+        },
+        "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.342337"
+    },
+    {
+      "start_time": "2025-12-01T11:46:59.342436",
+      "questions": [
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Verbs: Agreement and Tense",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 40.51
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "A. It's vs. Its",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 48.39
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "F. Gerunds $=$ Singular",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 36.4
+        },
+        {
+          "question": "Which choice best corrects the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Correct",
+          "correct_answer": "C",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 39.69
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 21.27
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "5",
+          "correct_answer": "A",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 26.33
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "1",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 21.67
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Diction, Tense",
+          "correct_answer": "A",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 55.5
+        },
+        {
+          "question": "Which choice best corrects the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Non-Essential Clauses with Commas, Dashes, and Parentheses",
+          "correct_answer": "A",
+          "student_answer": "D",
+          "is_correct": false,
+          "time_taken": 46.18
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "34. D: Parallel Structure",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 48.67
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Word Pairs",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": true,
+          "time_taken": 23.04
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Parts of Speech",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 55.26
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "BUT:",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 56.24
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "2",
+          "correct_answer": "A",
+          "student_answer": "A",
+          "is_correct": false,
+          "time_taken": 46.36
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "B",
+          "student_answer": "C",
+          "is_correct": false,
+          "time_taken": 21.96
+        },
+        {
+          "question": "Which choice best maintains the logical flow of the passage?...",
+          "subject": "sat_english",
+          "topic": "1",
+          "correct_answer": "A",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 18.2
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "And two general points:",
+          "correct_answer": "C",
+          "student_answer": "C",
+          "is_correct": true,
+          "time_taken": 54.53
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "Transitions 2",
+          "correct_answer": "D",
+          "student_answer": "D",
+          "is_correct": true,
+          "time_taken": 56.51
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "subject-Verb Agreement, p. 178",
+          "correct_answer": "B",
+          "student_answer": "B",
+          "is_correct": true,
+          "time_taken": 35.85
+        },
+        {
+          "question": "Which choice best replaces the underlined portion?...",
+          "subject": "sat_english",
+          "topic": "I",
+          "correct_answer": "D",
+          "student_answer": "B",
+          "is_correct": false,
+          "time_taken": 26.77
+        }
+      ],
+      "correct_count": 11,
+      "total_count": 20,
+      "subject_breakdown": {
+        "sat_english": {
+          "correct": 11,
+          "total": 20
+        }
+      },
+      "topic_breakdown": {
+        "Verbs: Agreement and Tense": {
+          "correct": 1,
+          "total": 1
+        },
+        "A. It's vs. Its": {
+          "correct": 1,
+          "total": 1
+        },
+        "F. Gerunds $=$ Singular": {
+          "correct": 0,
+          "total": 1
+        },
+        "Correct": {
+          "correct": 0,
+          "total": 1
+        },
+        "I": {
+          "correct": 1,
+          "total": 3
+        },
+        "5": {
+          "correct": 0,
+          "total": 1
+        },
+        "1": {
+          "correct": 1,
+          "total": 2
+        },
+        "Diction, Tense": {
+          "correct": 0,
+          "total": 1
+        },
+        "Non-Essential Clauses with Commas, Dashes, and Parentheses": {
+          "correct": 0,
+          "total": 1
+        },
+        "34. D: Parallel Structure": {
+          "correct": 1,
+          "total": 1
+        },
+        "Word Pairs": {
+          "correct": 1,
+          "total": 1
+        },
+        "Parts of Speech": {
+          "correct": 1,
+          "total": 1
+        },
+        "BUT:": {
+          "correct": 1,
+          "total": 1
+        },
+        "2": {
+          "correct": 0,
+          "total": 1
+        },
+        "And two general points:": {
+          "correct": 1,
+          "total": 1
+        },
+        "Transitions 2": {
+          "correct": 1,
+          "total": 1
+        },
+        "subject-Verb Agreement, p. 178": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "end_time": "2025-12-01T11:46:59.342679"
+    }
+  ],
+  "total_questions_attempted": 60,
+  "total_correct": 33,
+  "topic_performance": {
+    "1.1.2 Definition (Function - Domain - Range)": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.1.1 AVERAGE RATE OF CHANGE": {
+      "correct": 0,
+      "total": 1
+    },
+    "1.1.5 Graph of Functions Defined Piece-wise": {
+      "correct": 1,
+      "total": 1
+    },
+    "6.1.1 Equation of a Circle": {
+      "correct": 1,
+      "total": 1
+    },
+    "5.5 Feasible solution set": {
+      "correct": 0,
+      "total": 1
+    },
+    "7.1.7 Another notation for representing vectors in plane": {
+      "correct": 1,
+      "total": 1
+    },
+    "7.1.5 Vectors in a Plane": {
+      "correct": 2,
+      "total": 2
+    },
+    "1.1 Complex Numbers": {
+      "correct": 0,
+      "total": 1
+    },
+    "7.2 Permutations": {
+      "correct": 0,
+      "total": 1
+    },
+    "4.2.1 Addition of Matrices": {
+      "correct": 0,
+      "total": 1
+    },
+    "1.1.1 Recognition of Real and Imaginary Parts": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.1.2 Derivative of a Function": {
+      "correct": 1,
+      "total": 1
+    },
+    "14.1.4 Magnitude of a Vector in Space": {
+      "correct": 1,
+      "total": 1
+    },
+    "(ii) Parallelogram Law of Addition": {
+      "correct": 1,
+      "total": 1
+    },
+    "1.1.3 Notation and Value of a Function": {
+      "correct": 1,
+      "total": 2
+    },
+    "1.1.4 Graphs of Algebraic functions": {
+      "correct": 1,
+      "total": 1
+    },
+    "7.1.6 Properties of Magnitude of a Vector": {
+      "correct": 1,
+      "total": 1
+    },
+    "14.1.5 Components of a Vector": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.6 PROJECTILE MOTION": {
+      "correct": 0,
+      "total": 2
+    },
+    "2.4 EQUATIONS OF MOTIONS": {
+      "correct": 0,
+      "total": 2
+    },
+    "12.5 ELECTRIC FLUX": {
+      "correct": 1,
+      "total": 1
+    },
+    "9.10 ELECTRIC CURRENT": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.8 APPLICATIONS OF GAUSS'S LAW": {
+      "correct": 0,
+      "total": 1
+    },
+    "2.7 MOMENTUM": {
+      "correct": 0,
+      "total": 1
+    },
+    "16.5 A.C. THROUGH AN INDUCTOR": {
+      "correct": 1,
+      "total": 1
+    },
+    "2.3 PRODUCT OF TWO VECTORS": {
+      "correct": 1,
+      "total": 1
+    },
+    "16.1 ALTERNATING CURRENT": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.3 ELECTRIC FIELD LINES": {
+      "correct": 0,
+      "total": 1
+    },
+    "16.3 A.C. THROUGH A RESISTOR": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.9 ELECTRIC POTENTIAL": {
+      "correct": 1,
+      "total": 1
+    },
+    "4.7 WORK-ENERGY THEOREM": {
+      "correct": 1,
+      "total": 1
+    },
+    "9.1 COULOMB'S LAW": {
+      "correct": 0,
+      "total": 1
+    },
+    "9.2 ELECTRIC FIELD STRENGTH": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.2 FIELDS OF FORCE": {
+      "correct": 0,
+      "total": 1
+    },
+    "12.4 APPLICATIONS OF ELECTROSTATICS": {
+      "correct": 1,
+      "total": 1
+    },
+    "12.10 ELECTRIC POTENTIAL AT A POINT DUE TO A POINT CHARGE": {
+      "correct": 1,
+      "total": 1
+    },
+    "Verbs: Agreement and Tense": {
+      "correct": 1,
+      "total": 1
+    },
+    "A. It's vs. Its": {
+      "correct": 1,
+      "total": 1
+    },
+    "F. Gerunds $=$ Singular": {
+      "correct": 0,
+      "total": 1
+    },
+    "Correct": {
+      "correct": 0,
+      "total": 1
+    },
+    "I": {
+      "correct": 1,
+      "total": 3
+    },
+    "5": {
+      "correct": 0,
+      "total": 1
+    },
+    "1": {
+      "correct": 1,
+      "total": 2
+    },
+    "Diction, Tense": {
+      "correct": 0,
+      "total": 1
+    },
+    "Non-Essential Clauses with Commas, Dashes, and Parentheses": {
+      "correct": 0,
+      "total": 1
+    },
+    "34. D: Parallel Structure": {
+      "correct": 1,
+      "total": 1
+    },
+    "Word Pairs": {
+      "correct": 1,
+      "total": 1
+    },
+    "Parts of Speech": {
+      "correct": 1,
+      "total": 1
+    },
+    "BUT:": {
+      "correct": 1,
+      "total": 1
+    },
+    "2": {
+      "correct": 0,
+      "total": 1
+    },
+    "And two general points:": {
+      "correct": 1,
+      "total": 1
+    },
+    "Transitions 2": {
+      "correct": 1,
+      "total": 1
+    },
+    "subject-Verb Agreement, p. 178": {
+      "correct": 1,
+      "total": 1
+    }
+  },
+  "subject_performance": {
+    "mathematics": {
+      "correct": 13,
+      "total": 20
+    },
+    "physics": {
+      "correct": 9,
+      "total": 20
+    },
+    "sat_english": {
+      "correct": 11,
+      "total": 20
+    }
+  },
+  "last_activity": "2025-12-01T11:46:59.342725"
+}

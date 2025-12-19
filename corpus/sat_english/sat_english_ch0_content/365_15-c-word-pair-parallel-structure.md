@@ -1,0 +1,3 @@
+## 15. C: Word Pair, Parallel Structure
+
+Work backwards from the answer. The fact that two of them include the phrase but also immediately suggests that you need to read the entire sentence to check for not only. It appears, so but also is required. That means you can eliminate A) and B). Now look at the word after not only. It's as, so the word after but also must be as too. That makes C) the answer.

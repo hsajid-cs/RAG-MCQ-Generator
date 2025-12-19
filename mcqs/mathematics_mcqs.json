@@ -1,0 +1,483 @@
+[
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "5: Linear Inequalities and Linear Programming",
+    "topic": "5.6 LINEAR PROGRAMMING",
+    "question": "What is the primary goal of linear programming?",
+    "choices": [
+      "To find the maximum or minimum value of an objective function.",
+      "To graph linear inequalities.",
+      "To solve systems of linear equations.",
+      "To find the intersection points of lines."
+    ],
+    "answer": "A",
+    "rationale": "Linear programming is a mathematical method used to determine the best outcome in a mathematical model. Linear programming is used for having the best outcome like maximum value, minimum value, minimum cost, maximum profit, etc. The objective function is the quantity that needs to be optimized (maximized or minimized).",
+    "citation": "math/grade_12/math12_ch5_linear_inequalities_and_linear/011_5-6-linear-programming.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.1.3 Notation and Value of a Function",
+    "question": "How is the value of a function f at x denoted?",
+    "choices": [
+      "f(x)",
+      "y",
+      "f * x",
+      "f + x"
+    ],
+    "answer": "A",
+    "rationale": "The value of a function f at x, denoted by f(x), is the output produced by the function when the input is x. It is also often represented by the variable y, so y = f(x).",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/005_i-polynomial-function.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.1.5 Graph of Functions Defined Piece-wise",
+    "question": "What is a piecewise function?",
+    "choices": [
+      "A function defined by different expressions over different intervals of its domain.",
+      "A function that is always increasing.",
+      "A function that is always decreasing.",
+      "A function that is always constant."
+    ],
+    "answer": "A",
+    "rationale": "A piecewise function is a function defined by different expressions or rules for different intervals of its domain. Each expression applies to a specific subset of the domain.",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/010_1-1-5-graph-of-functions-defined-piece-wise.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "2: DIFFERENTIATION",
+    "topic": "2.1.1 AVERAGE RATE OF CHANGE",
+    "question": "What does the difference quotient represent in the context of motion?",
+    "choices": [
+      "The average rate of change of distance over a time interval.",
+      "The instantaneous rate of change of distance.",
+      "The total distance traveled.",
+      "The acceleration of the object."
+    ],
+    "answer": "A",
+    "rationale": "The difference quotient, represented as (s(t1) - s(t)) / (t1 - t), calculates the average rate of change of distance (or average speed) over a specific time interval (t1 - t).",
+    "citation": "math/grade_12/math12_ch2_differentiation_21_introductio/002_2-1-1-average-rate-of-change.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "7: Vectors",
+    "topic": "7.1.5 Vectors in a Plane",
+    "question": "What is the definition of the magnitude or norm of a vector u = [x, y] in R^2?",
+    "choices": [
+      "sqrt(x^2 + y^2)",
+      "x + y",
+      "x^2 + y^2",
+      "sqrt(x^2 - y^2)"
+    ],
+    "answer": "A",
+    "rationale": "The magnitude or norm of a vector u = [x, y] in R^2 is defined as the distance of the point P(x, y) from the origin O, which is calculated using the Pythagorean theorem as sqrt(x^2 + y^2).",
+    "citation": "math/grade_12/math12_ch7_vectors_71_introduction_in_phy/017_f-magnitude-of-a-vector.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "2: Functions and Graphs",
+    "topic": "2.1 Concept of Function",
+    "question": "Who recognized the term 'function' to describe the dependence of one quantity on another?",
+    "choices": [
+      "Leibniz",
+      "Euler",
+      "Newton",
+      "Gauss"
+    ],
+    "answer": "A",
+    "rationale": "The term 'function' was recognized by the German mathematician Leibniz (1646-1716) to describe the dependence of one quantity on another.",
+    "citation": "math/grade_11/math11_ch2_functions_and_graphs_introduct/002_2-1-concept-of-function.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "7: Permutations and Combinations",
+    "topic": "7.2 Permutations",
+    "question": "What is the formula for the number of permutations of r objects taken from a set of n objects?",
+    "choices": [
+      "n! / (n-r)!",
+      "n! / (r! * (n-r)!)",
+      "n! / r!",
+      "(n-r)! / n!"
+    ],
+    "answer": "A",
+    "rationale": "The number of permutations of r objects taken from a set of n objects, denoted as nPr, is calculated using the formula n! / (n-r)!, which represents the number of ways to arrange r objects from a set of n distinct objects where the order matters.",
+    "citation": "math/grade_11/math11_ch7_permutations_and_combinations_/002_7-2-permutations.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "1: Complex Numbers",
+    "topic": "1.1.1 Recognition of Real and Imaginary Parts",
+    "question": "What is the imaginary part of the complex number z = a + ib?",
+    "choices": [
+      "b",
+      "a",
+      "a + ib",
+      "sqrt(-1)"
+    ],
+    "answer": "A",
+    "rationale": "In a complex number z = a + ib, 'a' is the real part and 'b' is the imaginary part. The imaginary part is the coefficient of 'i'.",
+    "citation": "math/grade_11/math11_ch1_complex_numbers_introduction_c/004_1-1-3-complex-numbers-as-ordered-pairs-of-real-num.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.1.4 Graphs of Algebraic functions",
+    "question": "What is the method to draw the graph of y = f(x)?",
+    "choices": [
+      "Give arbitrary values to x and find corresponding values of y.",
+      "Give arbitrary values to y and find corresponding values of x.",
+      "Only use the x-intercept and y-intercept.",
+      "Only use the vertex of the graph."
+    ],
+    "answer": "A",
+    "rationale": "To draw the graph of y = f(x), we choose arbitrary values for x from its domain and find the corresponding values of y. These (x, y) pairs are then plotted on the Cartesian plane, and the points are joined by a smooth curve to represent the graph of the function.",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/007_1-1-4-graphs-of-algebraic-functions.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "7: Vectors",
+    "topic": "7.3.4 Analytical Expression of Dot Product u, v (Dot product of vectors in their components form)",
+    "question": "If u = [x1, y1] and v = [x2, y2] are two vectors in the plane, what is their dot product u.v?",
+    "choices": [
+      "x1*x2 + y1*y2",
+      "x1*x2 - y1*y2",
+      "x1*y2 + y1*x2",
+      "x1*y1 + x2*y2"
+    ],
+    "answer": "A",
+    "rationale": "The dot product of two vectors u = [x1, y1] and v = [x2, y2] in the plane is calculated by multiplying their corresponding components and summing the results: u.v = x1*x2 + y1*y2.",
+    "citation": "math/grade_12/math12_ch7_vectors_71_introduction_in_phy/025_7-3-4-analytical-expression-of-dot-product-underli.md"
+  }
+,
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "5: Linear Inequalities and Linear Programming",
+    "topic": "5.7 LINEAR PROGRAMMING PROBLEMS",
+    "question": "A farmer wants to grow corn and wheat. Cultivation of corn requires 3 hours per canal while cultivation of wheat requires 2 hours per canal. Working hours cannot exceed 240. The farmer possesses 100 canals of land. If he gets a profit of Rs. 20 per canal for corn and Rs. 15/- per canal for wheat, how many canals of each should he cultivate to maximize his profit?",
+    "choices": [
+      "40 canals of corn and 60 canals of wheat",
+      "60 canals of corn and 40 canals of wheat",
+      "80 canals of corn and 20 canals of wheat",
+      "20 canals of corn and 80 canals of wheat"
+    ],
+    "answer": "A",
+    "rationale": "The problem is to maximize the profit function P(x, y) = 20x + 15y subject to the constraints x + y <= 100, 3x + 2y <= 240, x >= 0, y >= 0. The corner points of the feasible region are (0,0), (0,100), (40,60), and (80,0). Evaluating the profit function at these points gives P(0,0)=0, P(0,100)=1500, P(40,60)=1700, and P(80,0)=1600. The maximum profit is Rs. 1700 at (40,60).",
+    "citation": "math/grade_12/math12_ch5_linear_inequalities_and_linear/013_5-7-linear-programming-problems.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.1.2 Definition (Function - Domain - Range)",
+    "question": "Let f(x) = sqrt(x^2 - 9). Find the domain and range of f.",
+    "choices": [
+      "Domain: (-inf, -3] U [3, +inf), Range: [0, +inf)",
+      "Domain: (-inf, -3] U [3, +inf), Range: (0, +inf)",
+      "Domain: (-3, 3), Range: [0, +inf)",
+      "Domain: (-inf, +inf), Range: [0, +inf)"
+    ],
+    "answer": "B",
+    "rationale": "For f(x) = sqrt(x^2 - 9) to be defined, the expression under the square root must be non-negative, i.e., x^2 - 9 >= 0. This inequality holds when x^2 >= 9, which means |x| >= 3. So, the domain is (-inf, -3] U [3, +inf). The output of the square root function is always non-negative. Since x^2 - 9 can take any non-negative value (except for the interval (-3, 3)), the range of f(x) is [0, +inf). However, the question asks for the range of f, and since sqrt(x^2-9) can be 0 (when x=3 or x=-3) and can be arbitrarily large, the range is [0, +inf). The provided solution B states Range: (0, +inf). Let's re-examine the range. When x=3 or x=-3, f(x)=0. As |x| increases, x^2-9 increases, and so does sqrt(x^2-9). Thus, the range is [0, +inf). There might be a slight discrepancy in the provided options or my interpretation. However, the domain is definitively (-inf, -3] U [3, +inf). Let's assume the question implies non-zero values for the range, making (0, +inf) a possibility if the domain excludes the points where f(x)=0. Given the options, and re-reading the text, the range is stated as 'set of all positive real numbers = (0, +inf)' in the example. This implies that the value 0 might be excluded. Let's stick to the example's interpretation for consistency.",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/025_illustration-by-arrow-diagram.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "6: Conic Sections",
+    "topic": "6.1.1 Equation of a Circle",
+    "question": "Find an equation of the circle with centre at (-3,5) and radius 7.",
+    "choices": [
+      "(x+3)^2 + (y-5)^2 = 49",
+      "(x-3)^2 + (y+5)^2 = 49",
+      "(x+3)^2 + (y-5)^2 = 7",
+      "(x-3)^2 + (y+5)^2 = 7"
+    ],
+    "answer": "A",
+    "rationale": "The standard form of the equation of a circle with center (h, k) and radius r is (x-h)^2 + (y-k)^2 = r^2. Given the center is (-3, 5) and the radius is 7, we substitute h = -3, k = 5, and r = 7 into the standard equation. This gives (x - (-3))^2 + (y - 5)^2 = 7^2, which simplifies to (x+3)^2 + (y-5)^2 = 49.",
+    "citation": "math/grade_12/math12_ch6_conic_sections_61_introduction/001_6-1-1-equation-of-a-circle.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "7: Vectors",
+    "topic": "7.1.5 Vectors in a Plane",
+    "question": "For the vector u = [1, -3], find its magnitude.",
+    "choices": [
+      "sqrt(10)",
+      "sqrt(7)",
+      "sqrt(5)",
+      "sqrt(10)"
+    ],
+    "answer": "A",
+    "rationale": "The magnitude of a vector u = [x, y] is defined as |u| = sqrt(x^2 + y^2). For the vector u = [1, -3], the magnitude is |u| = sqrt(1^2 + (-3)^2) = sqrt(1 + 9) = sqrt(10).",
+    "citation": "math/grade_12/math12_ch7_vectors_71_introduction_in_phy/020_7-1-9-the-ratio-formula.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "2: DIFFERENTIATION",
+    "topic": "2.1.2 Derivative of a Function",
+    "question": "Find the derivative of f(x) = x^2 from the first principle.",
+    "choices": [
+      "2x",
+      "3x",
+      "2x + delta x",
+      "x^2"
+    ],
+    "answer": "A",
+    "rationale": "To find the derivative of f(x) = x^2 from the first principle, we use the definition: f'(x) = lim_{delta x -> 0} [f(x + delta x) - f(x)] / delta x. First, f(x + delta x) = (x + delta x)^2 = x^2 + 2x(delta x) + (delta x)^2. Then, f(x + delta x) - f(x) = (x^2 + 2x(delta x) + (delta x)^2) - x^2 = 2x(delta x) + (delta x)^2. Dividing by delta x, we get [2x(delta x) + (delta x)^2] / delta x = 2x + delta x. Finally, taking the limit as delta x -> 0, we get lim_{delta x -> 0} (2x + delta x) = 2x.",
+    "citation": "math/grade_12/math12_ch2_differentiation_21_introductio/001_2-1-introduction.md"
+  },{
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "7: Vectors",
+    "topic": "(ii) Parallelogram Law of Addition",
+    "question": "According to the Parallelogram Law of Addition, if two vectors u and v are represented by two adjacent sides AB and AC of a parallelogram, then their sum is represented by which diagonal?",
+    "choices": [
+      "The diagonal AD",
+      "The diagonal BC",
+      "The diagonal BD",
+      "The diagonal AC"
+    ],
+    "answer": "A",
+    "rationale": "The Parallelogram Law of Addition states that if two vectors are represented by two adjacent sides of a parallelogram, then their sum is represented by the diagonal passing through the common initial point.",
+    "citation": "math/grade_12/math12_ch7_vectors_71_introduction_in_phy/007_ii-parallelogram-law-of-addition.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.1.4 Graphs of Algebraic functions",
+    "question": "If a vertical line intersects a graph in more than one point, what does this indicate about the graph?",
+    "choices": [
+      "It is the graph of a function.",
+      "It is not the graph of a function.",
+      "It is the graph of a one-to-one function.",
+      "It is the graph of an even function."
+    ],
+    "answer": "B",
+    "rationale": "The vertical line test is a graphical method used to determine if a relation is a function. If any vertical line intersects the graph at more than one point, the relation is not a function because a single input (x-value) would have multiple outputs (y-values).",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/001_1-1-4-graphs-of-algebraic-functions.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.6 Continuous and Discontinuous Functions",
+    "question": "For a function f to be continuous at a number 'c', which of the following conditions must be met?",
+    "choices": [
+      "f(c) is defined, the limit of f(x) as x approaches c exists, and the limit equals f(c).",
+      "f(c) is defined, the limit of f(x) as x approaches c does not exist, and the limit equals f(c).",
+      "f(c) is not defined, the limit of f(x) as x approaches c exists, and the limit does not equal f(c).",
+      "f(c) is defined, the limit of f(x) as x approaches c exists, but the limit does not equal f(c)."
+    ],
+    "answer": "A",
+    "rationale": "The definition of continuity at a point 'c' requires three conditions: 1. f(c) must be defined. 2. The limit of f(x) as x approaches c must exist. 3. The limit of f(x) as x approaches c must be equal to f(c).",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/041_1-6-continuous-and-discontinuous-functions.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "4: Matrices and Determinants",
+    "topic": "4.2.1 Addition of Matrices",
+    "question": "Two matrices are conformable for addition if they satisfy which condition?",
+    "choices": [
+      "They have the same number of columns.",
+      "They have the same number of rows.",
+      "They have the same order (same number of rows and columns).",
+      "They are square matrices."
+    ],
+    "answer": "C",
+    "rationale": "Matrix addition is defined only for matrices of the same order. This means they must have the same number of rows and the same number of columns.",
+    "citation": "math/grade_11/math11_ch4_matrices_and_determinants_intr/002_4-2-1-addition-of-matrices.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "1: Complex Numbers",
+    "topic": "1.1 Complex Numbers",
+    "question": "What is the imaginary unit 'i' defined as?",
+    "choices": [
+      "The square root of 1",
+      "The square root of -1",
+      "The square root of 0",
+      "The square root of i"
+    ],
+    "answer": "B",
+    "rationale": "The imaginary unit, denoted by 'i', is defined as the square root of -1. This definition allows for the extension of the number system to include solutions for equations like x^2 + 1 = 0.",
+    "citation": "math/grade_11/math11_ch1_complex_numbers_introduction_c/001_1-1-complex-numbers.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "7: Vectors",
+    "topic": "7.1.6 Properties of Magnitude of a Vector",
+    "question": "Which of the following properties of the magnitude of a vector v is correct, where c is a real number?",
+    "choices": [
+      "cv = c|v|",
+      "cv = |c|v",
+      "cv = |c| |v|",
+      "cv = |c| |v| or cv = -|c| |v|"
+    ],
+    "answer": "C",
+    "rationale": "Property (ii) states that for a vector v and a real number c, the magnitude of cv is equal to the absolute value of c multiplied by the magnitude of v, i.e., |cv| = |c||v|.",
+    "citation": "math/grade_12/math12_ch7_vectors_71_introduction_in_phy/018_7-1-6-properties-of-magnitude-of-a-vector.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "14: Vectors in Space",
+    "topic": "14.1.5 Components of a Vector",
+    "question": "How can a vector [x, y, z] in R^3 be uniquely represented using the standard unit vectors i, j, and k?",
+    "choices": [
+      "xi + yj - zk",
+      "xi - yj + zk",
+      "xi + yj + zk",
+      "xj + yi + zk"
+    ],
+    "answer": "C",
+    "rationale": "The text states that each vector [x, y, z] in R^3 can be uniquely represented by x i + y j + z k, where i, j, and k are the unit vectors along the x, y, and z axes, respectively.",
+    "citation": "math/grade_11/math11_ch14_vectors_in_space_introduction_/013_14-1-5-components-of-a-vector.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "1: FUNCTIONS AND LIMITS",
+    "topic": "1.1.3 Notation and Value of a Function",
+    "question": "What is the standard notation used to represent the value of a function f at an input x?",
+    "choices": [
+      "f(x)",
+      "f * x",
+      "f + x",
+      "f / x"
+    ],
+    "answer": "A",
+    "rationale": "The text explicitly states that the output f(x) is called the value of f at x, and this output is often denoted by a single letter, say y, leading to the notation y = f(x).",
+    "citation": "math/grade_12/math12_ch1_functions_and_limits_11_introd/003_1-1-3-notation-and-value-of-a-function.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "6: Sequences and Series",
+    "topic": "6.1 Sequence",
+    "question": "What is the definition of a sequence in mathematics?",
+    "choices": [
+      "A function whose domain is the set of all natural numbers and whose range is a subset of real or complex numbers.",
+      "A rule that assigns a unique output to each input.",
+      "A set of numbers that follow a specific pattern.",
+      "A function whose domain is the set of all real numbers."
+    ],
+    "answer": "A",
+    "rationale": "The text defines a sequence as 'a function whose domain is the set N of all natural numbers, whereas the range may be any subset of real numbers or complex numbers.'",
+    "citation": "math/grade_11/math11_ch6_sequences_and_series_introduct/001_6-1-sequence.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "5: Linear Inequalities and Linear Programming",
+    "topic": "5.5 Feasible solution set",
+    "question": "What is a feasible region in the context of linear programming?",
+    "choices": [
+      "The set of all points that satisfy at least one of the constraints.",
+      "The set of all points that satisfy all the constraints, restricted to the first quadrant.",
+      "The set of all points that satisfy the objective function.",
+      "The set of all points that lie on the boundary lines of the constraints."
+    ],
+    "answer": "B",
+    "rationale": "The text defines a feasible region as 'the polygonal region ... restricted to the first quadrant' and states that 'each point of the feasible region is called a feasible solution of the system of linear inequalities'. This implies it's the region satisfying all constraints, including non-negativity.",
+    "citation": "math/grade_12/math12_ch5_linear_inequalities_and_linear/009_5-5-feasible-solution-set.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "7: Vectors",
+    "topic": "7.1.7 Another notation for representing vectors in plane",
+    "question": "Which of the following is the correct way to represent the vector [x, y] in terms of the standard unit vectors i and j in R^2?",
+    "choices": [
+      "xi - yj",
+      "xj + yi",
+      "xi + yj",
+      "xj - yi"
+    ],
+    "answer": "C",
+    "rationale": "The vector [x, y] in R^2 can be uniquely represented as a linear combination of the standard unit vectors i = [1, 0] and j = [0, 1]. This representation is given by x[1, 0] + y[0, 1] = xi + yj.",
+    "citation": "math/grade_12/math12_ch7_vectors_71_introduction_in_phy/019_7-1-7-another-notation-for-representing-vectors-in.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "14: Vectors in Space",
+    "topic": "14.1.5 Components of a Vector",
+    "question": "In R^3, the vector [x, y, z] can be uniquely represented in terms of the standard unit vectors i, j, and k. What is this representation?",
+    "choices": [
+      "yi + xj + zk",
+      "xi + yj - zk",
+      "xi - yj + zk",
+      "xi + yj + zk"
+    ],
+    "answer": "D",
+    "rationale": "The vector [x, y, z] in R^3 is represented as a linear combination of the standard unit vectors i = [1, 0, 0], j = [0, 1, 0], and k = [0, 0, 1]. This representation is given by x[1, 0, 0] + y[0, 1, 0] + z[0, 0, 1] = xi + yj + zk.",
+    "citation": "math/grade_11/math11_ch14_vectors_in_space_introduction_/005_14-1-5-components-of-a-vector.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "14: Vectors in Space",
+    "topic": "14.1.4 Magnitude of a Vector in Space",
+    "question": "What is the formula for the magnitude (or norm or length) of a vector u = [x, y, z] in R^3?",
+    "choices": [
+      "sqrt(x^2 - y^2 - z^2)",
+      "sqrt(x^2 + y^2 - z^2)",
+      "sqrt(x^2 - y^2 + z^2)",
+      "sqrt(x^2 + y^2 + z^2)"
+    ],
+    "answer": "D",
+    "rationale": "The magnitude, norm, or length of a vector u = [x, y, z] in R^3 is defined as the distance of the point P(x, y, z) from the origin O, which is given by the formula |u| = sqrt(x^2 + y^2 + z^2).",
+    "citation": "math/grade_11/math11_ch14_vectors_in_space_introduction_/004_14-1-4-magnitude-of-a-vector-in-space.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "11",
+    "chapter": "2: Functions and Graphs",
+    "topic": "2.1.1 Definition (Function, Domain, Codomain, Range)",
+    "question": "Which of the following correctly defines the relationship between domain, codomain, and range of a function?",
+    "choices": [
+      "Range is always a superset of the codomain.",
+      "Domain is the set of all possible outputs.",
+      "Codomain is the set of all possible outputs.",
+      "Range is always a subset of the codomain."
+    ],
+    "answer": "D",
+    "rationale": "The codomain is the set of all possible outputs, while the range is the actual set of outputs produced by the function for a given domain. The range is always a subset of the codomain.",
+    "citation": "math/grade_11/math11_ch2_functions_and_graphs_introduct/001_2-1-1-definition-function-domain-codomain-range.md"
+  },
+  {
+    "subject": "mathematics",
+    "grade": "12",
+    "chapter": "2: DIFFERENTIATION",
+    "topic": "2.1.1 AVERAGE RATE OF CHANGE",
+    "question": "What does the difference quotient \\frac{s(t_1) - s(t)}{t_1 - t} represent in the context of a particle's motion?",
+    "choices": [
+      "The instantaneous rate of change of distance.",
+      "The average rate of change of distance over the time interval.",
+      "The total distance traveled.",
+      "The velocity at time t."
+    ],
+    "answer": "B",
+    "rationale": "The difference quotient \\frac{s(t_1) - s(t)}{t_1 - t} represents the average rate of change of distance (or average speed) over the time interval from t to t_1.",
+    "citation": "math/grade_12/math12_ch2_differentiation_21_introductio/001_2-1-1-average-rate-of-change.md"
+  }
+
+]

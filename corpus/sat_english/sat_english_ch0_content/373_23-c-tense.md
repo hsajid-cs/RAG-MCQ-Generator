@@ -1,0 +1,3 @@
+## 23. C: Tense
+
+All of the verbs in the sentence itself and the surrounding sentences are in the past tense (was, got, approached), so the underlined verb must be in the past as well. Remember that would + verb is grammatically equivalent to the regular old past, so would spend is the same as spent. That makes D) correct. In B), have spent should only be used for an actual that is still continuing, and the passage is in the past. In A), spend is in the present, and in C), will spend is in the future.

@@ -1,0 +1,3 @@
+## 27. C: Add/Delete/Revise
+
+This question indicates that the correct answer must supply a transition to the information that follows, so you need to focus on that information before you worry about the answer itself. What do we learn from the rest of the paragraph? That the publishing companies all said no. C) is the only answer consistent with that idea. The fact that all of the other answers make sense in context of the first half of the sentence is irrelevant.

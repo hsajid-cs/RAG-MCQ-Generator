@@ -1,0 +1,5 @@
+## Guy Laliberté's Cirque du Soleil
+
+Guy Laliberté is an accordionist, stilt-walker, and fire-eater. He's also the founder of Cirque du Soleil (French for "Circus of the Sun"), the Canadian circus that has become famous for 1 it's spectacular sets and amazing acrobats. While it may be unusual, Laliberté's career choice was hardly 2 surprising when he was a child, his parents took him to watch the Ringling Brothers and Barnum \& Bailey Circus, an experience that led him to read the biography of its creator, P. T. Barnum.
+
+While still in his teens, Laliberté produced several performing arts events. After leaving college, he entered the world of street 3 performance, and he would play the harmonica and accordion on the streets of Quebec. He then 4 got together with a troupe that included firebreathers, jugglers, and acrobats who traveled around the country from show to show. Later, he returned to Quebec, where he found a steady job at a hydroelectric dam. Soon after his employment began, 5 however, the dam's employees went on strike. Laliberté took the opportunity to return to his life as a street performer.

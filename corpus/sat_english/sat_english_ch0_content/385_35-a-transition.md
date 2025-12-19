@@ -1,0 +1,3 @@
+## 35. A: Transition
+
+Therefore and consequently have the same meaning, so B) and D) can be eliminated. Now you need to figure out whether you need a continuer or a contradictor, so back up and consider the previous sentence. What does it tell us? That scientists lack answers to fundamental questions about dreaming. What does the sentence in question tell us? That scientists don't know how dreams originate. So the two sentences express similar ideas, making A) correct.

@@ -1,0 +1,3 @@
+### 14.1.2 Concept of a Vector in Space
+
+The set $R^{3}=\{(x, y, z): x, y, z \in R\}$ is called 3-dimensional space. An element $(x, y, z)$ of $R^{3}$ represents a point $P(x, y, z)$, which is uniquely determined by its coordinates $x, y$ and $z$. Given a vector $\underline{u}$ in space, there exists a unique point $P(x, y, z)$ in space such that the vector $\overrightarrow{O P}$ is equal to $\underline{u}$ (see figure). Now each element $(x, y, z) \in R^{3}$ is associated with a unique ordered triple $(x, y, z)$, which represents the vector $\underline{u}=\overrightarrow{O P}=[x, y, z]$.

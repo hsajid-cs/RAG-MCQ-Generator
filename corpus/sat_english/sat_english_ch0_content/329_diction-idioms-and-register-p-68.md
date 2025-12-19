@@ -1,0 +1,19 @@
+## Diction, Idioms, and Register, p. 68
+
+1.1 C: To be cloaked in something is an idiomatic expression meaning "to be covered in."
+1.2 D: Exhibited a dearth of activation is too formal, whereas been pretty quiet and lain low are too informal/colloquial. Only remained dormant is consistent with the moderately serious tone of the passage.
+2.1 D: Be careful with this question. Although focus on is a common idiom, the construction here is airlines have shifted their focus $\qquad$ the flying experience. One shifts focus from $x$ to $y$, making D) correct.
+2.2 A: To spur demand for something means "to increase demand." All of the other options are not idiomatic.
+2.3 B: The correct idiom is seek + infinitive (seek to impress).
+3.1 D: A crop can only be cultivated (grown); it cannot be elevated (made higher), perpetuated (made to continue), or activated (turned on).
+3.2 A: Given the discussion of the durian's strong smell, the correct word must mean something like "gives off" or "releases"; only emits fits that definition. A fruit cannot "offer" or "admit" a smell, and although it can "stimulate" a response in people who smell it, this word does not refer to something that the durian can do to itself.
+3.3 C: Based on the context of the passage, the underlined phrase must mean "provoke," i.e., elicit, reactions. Illicit means "illegal" or "not permitted." That eliminates A) and B). D) is incorrect because ranging must be followed by the preposition from; it is idiomatically unacceptable to omit the preposition.
+3.4 C: The correct idiom is similar to; a preposition other than to cannot be used.
+3.5 B: The key phrase in the question is "negative consequences," so the correct word must be consistent with the idea that people can be criticized for or looked on as strange for praising the durian's taste. Claim, want, and intend do not carry this connotation, but dare implies that people are taking a risk by admitting that they enjoy durian. B) is thus correct.
+
+4.1 A: The underlined word is contrasted with crumbling films and must therefore mean the opposite-i.e., well-preserved. Inert (unmoving) does not fit, eliminating B). Entire and integrated have the right meaning but do not work idiomatically. Only intact fits both idiomatically and in terms of meaning, making A) correct.
+4.2 B: To restore a film is to return it to its original condition, making B) the answer. Revive has the right general meaning, but this word is typically used only to describe what is done to a gravely ill person, not to an inanimate object. Given the discussion of making crumbling films viewable again, regulate and relieve do not make sense.
+5.1 B: The correct idiom is suitable for; a preposition other than for cannot be used.
+5.2 A: Based on the context, the underlined word must help convey the idea that wood sculptures decay easily. Vulnerable to indicates that someone or something is in a weak position and open to disease/attack. The references to decay, insect damage, and fire indicate that definition. Inferior (lower-ranking) does not fit, and accessible and eligible both have positive connotations.
+5.3 C: Hang around is too casual, and remain extant is too formal. Dry out does not make sense because the passage is discussing why wooden sculptures are not durable. Survive is both consistent with this context and with the neutral, moderately serious tone of the passage.
+5.4 C: A tradition can only have developed, i.e., come into existence. It cannot have accumulated (gathered together) or amplified (grown louder/more extreme), eliminating A) and D). B) does not fit grammatically or in terms of meaning: $x$ can only have encroached on (crowded out or invaded the space of) $y$.

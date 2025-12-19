@@ -1,0 +1,3 @@
+## 5. A: Transition
+
+This transition occurs in the middle of the sentence, so you must consider the relationship between this sentence and the information before it. The previous sentences indicate that Laliberté left street performing for a steady job in Quebec, and this sentence tells us that the workers at his new job went on strike (implying that Laliberté couldn't work). Those are opposite ideas, so a contradictor is required. Only however fits, so A) is correct.

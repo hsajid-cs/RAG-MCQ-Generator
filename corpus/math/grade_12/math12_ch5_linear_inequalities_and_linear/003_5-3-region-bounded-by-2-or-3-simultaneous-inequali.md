@@ -1,0 +1,3 @@
+### 5.3 REGION BOUNDED BY 2 OR 3 SIMULTANEOUS INEQUALITIES
+
+The graph of a system of inequalities consists of the set of all ordered pairs (x, y) in the xy-plane which simultaneously satisfy all the inequalities in the system. Find the graph of such a system, we draw the graph of each inequality in the system on the same coordinate axes and then take intersection of all the graphs. The common region so obtained is called the solution region for the system of inequalities.

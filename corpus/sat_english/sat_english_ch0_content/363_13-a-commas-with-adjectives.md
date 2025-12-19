@@ -1,0 +1,4 @@
+## 13. A: Commas with adjectives
+
+Although all those commas might make your head spin, you can narrow down the answers relatively quickly if you know what to focus on. No comma should be placed between an adjective (modular) and the noun it modifies (residence), eliminating both B) and D). Now the
+question is whether the adjectives should be separated by a comma. Because the order of the adjectives cannot be reversed, no comma should be used. (You would not say ...tallest and modular residence.) You can also think of modular residence as a single unit that is in turn modified by tallest. Again, no comma should be used between adjectives when one modifies the other. That makes A) correct.

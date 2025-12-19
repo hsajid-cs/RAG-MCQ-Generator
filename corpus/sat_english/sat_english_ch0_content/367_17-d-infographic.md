@@ -1,0 +1,3 @@
+## 17. D: Infographic
+
+Start by looking at the full sentence for context. It discusses the length of time necessary to install traditional homes vs. modular ones, so you want to focus on the delivery/installation portion of the graph. The white bar (modular) indicates one week, and the gray bar (traditional) indicates four weeks. So it takes about four times as long to install a traditional home. That is "significantly" longer, making D) correct.
