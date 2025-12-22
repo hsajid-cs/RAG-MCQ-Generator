@@ -15,13 +15,23 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional, Tuple
 from collections import defaultdict
 from datetime import datetime
-import google.generativeai as genai
-
+import os
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyAXXDD1M89vEiDL9uP5ke-viAOz7hmb8ck"
-MODEL_NAME = "gemini-2.5-flash-lite"
-genai.configure(api_key=GEMINI_API_KEY)
+MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+# Read GEMINI API key from environment (do not hardcode)
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+try:
+    import google.generativeai as genai
+except Exception:
+    genai = None
+
+if genai is not None and GEMINI_API_KEY:
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+    except Exception:
+        # non-fatal; calls to Gemini will raise if misconfigured
+        pass
 
 
 class PilotMetrics:

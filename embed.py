@@ -23,13 +23,25 @@ from typing import Iterable, Iterator, List, Sequence
 
 import numpy as np
 
-
 try:
-	from sentence_transformers import SentenceTransformer
-except ImportError as exc:  # pragma: no cover - import guidance
-	raise SystemExit(
-		"Missing dependency: sentence-transformers. Install with `pip install sentence-transformers`."
-	) from exc
+    from sentence_transformers import SentenceTransformer
+except Exception:
+    SentenceTransformer = None
+
+_model = None
+def _get_model():
+    global _model
+    if _model is None:
+        if SentenceTransformer is None:
+            raise RuntimeError("Install sentence-transformers to enable embeddings: pip install sentence-transformers")
+        _model = SentenceTransformer("all-MiniLM-L6-v2")
+    return _model
+
+def embed_texts(texts: List[str]) -> List[np.ndarray]:
+    """Return list/array of embeddings (dtype float)."""
+    model = _get_model()
+    embs = model.encode(texts, show_progress_bar=False, convert_to_numpy=True)
+    return embs
 
 
 INPUT_DIR = Path("corpus")

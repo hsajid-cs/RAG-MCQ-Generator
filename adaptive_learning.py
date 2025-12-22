@@ -13,7 +13,10 @@ import time
 from datetime import datetime
 from pathlib import Path
 from typing import List, Dict, Any, Optional
-import random
+
+# new imports for generator + retriever fallback
+from mcq_generator import generate_mcqs_rag, generate_from_context  # fallback generator
+from retriever import Retriever
 
 # Import our modules
 from adaptive_selector import AdaptiveSelector
@@ -450,6 +453,81 @@ class AdaptiveLearningSystem:
         print(insights)
         print("="*80)
 
+    def generate_adaptive_items(
+        self,
+        num_questions: int = 10,
+        student_id: str = "demo_student",
+        subjects: Optional[List[str]] = None,
+        difficulty_policy: Optional[callable] = None,
+    ) -> List[Dict[str, Any]]:
+        """
+        Generate `num_questions` MCQs for an adaptive session.
+
+        Behavior:
+        - If `generate_mcqs_rag` returns items (LLM configured), use those.
+        - Otherwise fall back to retrieving context via Retriever and calling
+          `generate_from_context` (heuristic fallback).
+        - Uses `self.selector` if available to pick subject/difficulty; otherwise
+          cycles provided `subjects` or uses the first blueprint subject.
+        - Returns a list of item dicts (question, choices, answer_idx/answer, citations, verified).
+        """
+        items: List[Dict[str, Any]] = []
+        subjects = subjects or getattr(self, "default_subjects", None) or ["mathematics", "physics", "sat_english"]
+
+        for i in range(num_questions):
+            # pick subject (selector if available)
+            if hasattr(self, "selector") and callable(getattr(self.selector, "select_subject_for_student", None)):
+                subj = self.selector.select_subject_for_student(student_id, subjects)
+            else:
+                subj = subjects[i % len(subjects)]
+
+            # pick difficulty (selector policy or provided callable)
+            if difficulty_policy:
+                diff = difficulty_policy(student_id, subj)
+            elif hasattr(self, "selector") and callable(getattr(self.selector, "select_difficulty", None)):
+                diff = self.selector.select_difficulty(student_id, subj)
+            else:
+                diff = "Medium"
+
+            # Try main RAG generator (may return [] if LLM not configured)
+            try:
+                generated = generate_mcqs_rag(subj, 1, difficulty=diff)
+            except Exception:
+                generated = []
+
+            item: Optional[Dict[str, Any]] = None
+            if generated:
+                item = generated[0]
+            else:
+                # Fallback: retrieve context and call heuristic generator
+                try:
+                    retr = Retriever(subj)
+                    query = f"{subj} practice {diff}"
+                    ctx = retr.retrieve_top_k(query, k=6)
+                    item = generate_from_context(ctx, difficulty=diff, subject=subj)
+                except Exception as e:
+                    # if even fallback fails, produce a minimal placeholder item
+                    item = {
+                        "subject": subj,
+                        "question": f"Could not generate question for {subj} (fallback).",
+                        "choices": ["A","B","C","D"],
+                        "answer": "A",
+                        "answer_idx": 0,
+                        "rationale": "Generation failed.",
+                        "citations": [],
+                        "verified": False,
+                        "difficulty": diff,
+                    }
+
+            # Attach session metadata and ensure normalized keys
+            item.setdefault("difficulty", diff)
+            item.setdefault("verified", item.get("verified", False))
+            item.setdefault("citations", item.get("citations", []))
+            item.setdefault("id", item.get("id") or f"{subj[:3]}_{int(time.time()*1000)%100000}_{i}")
+
+            items.append(item)
+
+        return items
 
 def main():
     """Main entry point for adaptive learning system."""

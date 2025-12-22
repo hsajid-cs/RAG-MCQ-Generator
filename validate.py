@@ -14,12 +14,17 @@ import os
 import re
 import time
 from pathlib import Path
-from typing import List, Dict, Any, Set, Tuple
-from collections import defaultdict
-import google.generativeai as genai
+from typing import Dict, Any, List, Optional
+import difflib
+
+# replace direct import with guarded import
+try:
+    import google.generativeai as genai
+except Exception:
+    genai = None
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyAXXDD1M89vEiDL9uP5ke-viAOz7hmb8ck"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 MODEL_NAME = "gemini-2.5-flash-lite"
 MCQ_FOLDER = "mcqs"
 CORPUS_FOLDER = "corpus"
@@ -31,8 +36,13 @@ MAX_DUPLICATES_IN_REPORT = 5  # Limit duplicates shown in full report
 MAX_ISSUES_PER_CATEGORY = 5  # Limit issues shown per validation category
 API_RATE_LIMIT_DELAY = 1.0  # Seconds to wait between API calls
 
-# Configure Gemini
-genai.configure(api_key=GEMINI_API_KEY)
+# Configure Gemini if available and key provided; keep import safe for environments without Gemini
+if genai is not None and GEMINI_API_KEY:
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+    except Exception:
+        # Leave genai usable downstream; actual calls will raise with clearer message
+        pass
 
 
 def load_mcq_file(filepath: str) -> List[Dict[str, Any]]:
@@ -94,8 +104,13 @@ def check_distractors(mcqs: List[Dict[str, Any]]) -> Dict[str, Any]:
                 'issue': 'Insufficient choices',
                 'details': f'Only {len(choices)} choices provided'
             })
+            continue  # subsequent checks assume 4 choices
         
-        # Check for duplicate choices
+        # Normalize choice text
+        norm_simple = [c.strip() for c in choices]
+        norm_cmp = [re.sub(r'[\W_]+', ' ', c).strip().lower() for c in choices]
+        
+        # Check for exact duplicates
         unique_choices = set([c.strip().lower() for c in choices])
         if len(unique_choices) < len(choices):
             issues.append({
@@ -105,25 +120,102 @@ def check_distractors(mcqs: List[Dict[str, Any]]) -> Dict[str, Any]:
                 'details': 'Some answer choices are identical'
             })
         
-        # Check if answer is valid
-        valid_answers = ['A', 'B', 'C', 'D']
-        if answer not in valid_answers[:len(choices)]:
+        # Check for near duplicates (punctuation/whitespace-insensitive)
+        if len(set(norm_cmp)) < len(norm_cmp):
             issues.append({
                 'index': idx,
                 'question': question,
-                'issue': 'Invalid answer key',
-                'details': f'Answer "{answer}" is not valid for {len(choices)} choices'
+                'issue': 'Near-duplicate choices',
+                'details': 'Some choices differ only by case/punctuation'
             })
         
-        # Check for very short distractors (may indicate low quality)
-        for choice_idx, choice in enumerate(choices):
-            if len(choice.strip()) < 2:
+        # Highly similar choices (SequenceMatcher)
+        sim_pairs = []
+        for i in range(len(norm_cmp)):
+            for j in range(i + 1, len(norm_cmp)):
+                sim = difflib.SequenceMatcher(None, norm_cmp[i], norm_cmp[j]).ratio()
+                if sim > 0.9:
+                    sim_pairs.append((i, j, round(sim, 2)))
+        if sim_pairs:
+            issues.append({
+                'index': idx,
+                'question': question,
+                'issue': 'Highly similar distractors',
+                'details': f'Choice pairs too similar: {sim_pairs}'
+            })
+        
+        # Banned forms
+        banned = {'none of the above', 'all of the above', 'none of these', 'all of these'}
+        if any(any(b in c.lower() for b in banned) for c in choices):
+            issues.append({
+                'index': idx,
+                'question': question,
+                'issue': 'Banned choices detected',
+                'details': 'Contains "None/All of the above/these"'
+            })
+        
+        # Length imbalance
+        lens = [len(c) for c in norm_simple]
+        if min(lens) > 0 and (max(lens) / max(1, min(lens)) > 3):
+            issues.append({
+                'index': idx,
+                'question': question,
+                'issue': 'Length imbalance',
+                'details': f'Choice length ratio too high: max={max(lens)}, min={min(lens)}'
+            })
+        
+        # Check if answer is valid
+        valid_answers = ['A', 'B', 'C', 'D']
+        if answer not in valid_answers:
+            issues.append({
+                'index': idx,
+                'question': question,
+                'issue': 'Invalid answer label',
+                'details': f'Answer "{answer}" not in {valid_answers}'
+            })
+        else:
+            ans_idx = ord(answer) - 65
+            if not (0 <= ans_idx < len(choices)):
                 issues.append({
                     'index': idx,
                     'question': question,
-                    'issue': 'Extremely short choice',
-                    'details': f'Choice {chr(65+choice_idx)} is too short: "{choice}"'
+                    'issue': 'Answer index out of range',
+                    'details': f'Answer "{answer}" does not map into provided choices'
                 })
+        
+        # Numeric plausibility checks (all numeric choices)
+        is_numeric = all(re.fullmatch(r'\s*[-+]?\d+(\.\d+)?\s*', c or '') for c in choices if isinstance(c, str))
+        if is_numeric and answer in valid_answers:
+            try:
+                ans_idx = ord(answer) - 65
+                correct_val = float(choices[ans_idx])
+                distractor_vals = []
+                for i, c in enumerate(choices):
+                    if i == ans_idx:
+                        continue
+                    distractor_vals.append(float(c))
+                deltas = [abs(v - correct_val) for v in distractor_vals]
+                
+                # Distinctness of distractors
+                if len(set(round(d, 6) for d in deltas)) < len(deltas):
+                    issues.append({
+                        'index': idx,
+                        'question': question,
+                        'issue': 'Numeric distractors too similar',
+                        'details': f'Deltas to correct answer not sufficiently distinct: {deltas}'
+                    })
+                
+                # Avoid trivial or zero deltas
+                if any(d == 0 for d in deltas):
+                    issues.append({
+                        'index': idx,
+                        'question': question,
+                        'issue': 'Duplicate numeric value',
+                        'details': 'A distractor equals the correct numeric answer'
+                    })
+            except Exception:
+                # Ignore parse errors silently for numeric-only check
+                pass
     
     return {
         'total_checked': len(mcqs),
@@ -663,6 +755,58 @@ Use markdown formatting. Be specific to {subject} content."""
     
     return call_gemini(prompt)
 
+
+def cite_check(mcq: Dict[str, Any], contexts: Optional[List[Dict[str, Any]]] = None) -> bool:
+    """
+    Strict citation gate.
+
+    Returns True only if:
+    - mcq has non-empty 'citations' OR
+    - at least one retrieved context shares a meaningful substring/keywords with the MCQ
+      (heuristic match between context text and question/rationale/solution).
+
+    This function is intentionally conservative: generator should retry/regenerate items
+    that fail this gate.
+    """
+    if not isinstance(mcq, dict):
+        return False
+
+    # build mcq content to search against
+    parts = []
+    for k in ("question", "question_text", "rationale", "solution_latex", "solution"):
+        v = mcq.get(k)
+        if v:
+            parts.append(str(v))
+    content = " ".join(parts).lower().strip()
+    if not content:
+        return False
+
+    # 1) explicit citations -> accept
+    cit = mcq.get("citations") or mcq.get("citation") or []
+    if isinstance(cit, str) and cit.strip():
+        return True
+    if isinstance(cit, (list, tuple)) and len([c for c in cit if c]) > 0:
+        return True
+
+    # 2) check contexts (heuristic)
+    if contexts:
+        # prepare keyword set from content (long words)
+        content_words = set(w for w in re.split(r"\W+", content) if len(w) > 4)
+        for ctx in contexts:
+            text = (ctx.get("text") or ctx.get("content") or ctx.get("snippet") or "").lower()
+            if not text:
+                continue
+            # direct substring match of a meaningful prefix
+            snippet = text.strip()[:120]
+            if snippet and snippet in content:
+                return True
+            # keyword overlap: require at least 2 long-word overlaps
+            ctx_words = set(w for w in re.split(r"\W+", text) if len(w) > 4)
+            if len(content_words.intersection(ctx_words)) >= 2:
+                return True
+
+    # otherwise fail strict gate
+    return False
 
 def main():
     """Main validation workflow."""
